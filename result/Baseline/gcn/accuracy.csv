@@ -1,0 +1,6 @@
+dataSet,PyG,DGL,FlashSparse-FP16,FlashSparse-TF32
+cora,75.2,76.6,65.9,68.5
+ell-acc,95.1,94.3,95.13,95.05
+pubmed,73.0,75.1,75.7,75.1
+question,97.06,96.6,97.02,97.02
+min,80.0,80.0,80.0,80.0

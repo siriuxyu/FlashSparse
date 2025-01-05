@@ -1,0 +1,6 @@
+DTCSpMM
+GESpMM_kernel
+GNNAdvisor_kernel
+TCGNN
+TCGNN_kernel
+cuSPARSE_kernel

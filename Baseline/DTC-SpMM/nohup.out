@@ -1,0 +1,5959 @@
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00337885 seconds
+TC_Blocks:	119691
+Exp_Edges:	15320448
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.0018169 seconds
+TC_Blocks:	15491
+Exp_Edges:	1982848
+dynamic_shared_size: 2044
+	 GPU Preprocess time: 0.00399506 seconds
+TC_Blocks:	32731
+Exp_Edges:	4189568
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00844957 seconds
+TC_Blocks:	1213299
+Exp_Edges:	155302272
+dynamic_shared_size: 6916
+	 GPU Preprocess time: 0.0119603 seconds
+TC_Blocks:	23602
+Exp_Edges:	3021056
+dynamic_shared_size: 9564
+	 GPU Preprocess time: 0.0146773 seconds
+TC_Blocks:	41368
+Exp_Edges:	5295104
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.0129291 seconds
+TC_Blocks:	1078015
+Exp_Edges:	137985920
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.00687634 seconds
+TC_Blocks:	459079
+Exp_Edges:	58762112
+dynamic_shared_size: 2364
+	 GPU Preprocess time: 0.0109005 seconds
+TC_Blocks:	38459
+Exp_Edges:	4922752
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00193064 seconds
+TC_Blocks:	90901
+Exp_Edges:	11635328
+dynamic_shared_size: 10052
+	 GPU Preprocess time: 0.0146212 seconds
+TC_Blocks:	23753
+Exp_Edges:	3040384
+dynamic_shared_size: 10052
+	 GPU Preprocess time: 0.0143926 seconds
+TC_Blocks:	23150
+Exp_Edges:	2963200
+dynamic_shared_size: 5060
+	 GPU Preprocess time: 0.00735282 seconds
+TC_Blocks:	17189
+Exp_Edges:	2200192
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.0104131 seconds
+TC_Blocks:	1499459
+Exp_Edges:	191930752
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0065915 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00663197 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00638525 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00663214 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00665596 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00649359 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00661427 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0164255 seconds
+TC_Blocks:	602672
+Exp_Edges:	77142016
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00645777 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00639653 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00639744 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00641211 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00668328 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00653398 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.006793 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00665987 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 436
+	 GPU Preprocess time: 0.00149266 seconds
+TC_Blocks:	13666
+Exp_Edges:	1749248
+dynamic_shared_size: 4260
+	 GPU Preprocess time: 0.00899144 seconds
+TC_Blocks:	455410
+Exp_Edges:	58292480
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00170325 seconds
+TC_Blocks:	52464
+Exp_Edges:	6715392
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00861888 seconds
+TC_Blocks:	1305731
+Exp_Edges:	167133568
+dynamic_shared_size: 3028
+	 GPU Preprocess time: 0.00498366 seconds
+TC_Blocks:	12777
+Exp_Edges:	1635456
+dynamic_shared_size: 4476
+	 GPU Preprocess time: 0.0112093 seconds
+TC_Blocks:	741424
+Exp_Edges:	94902272
+dynamic_shared_size: 244
+	 GPU Preprocess time: 0.00218285 seconds
+TC_Blocks:	8756
+Exp_Edges:	1120768
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00350064 seconds
+TC_Blocks:	374585
+Exp_Edges:	47946880
+dynamic_shared_size: 9380
+	 GPU Preprocess time: 0.0155073 seconds
+TC_Blocks:	286638
+Exp_Edges:	36689664
+dynamic_shared_size: 12556
+	 GPU Preprocess time: 0.0203929 seconds
+TC_Blocks:	293919
+Exp_Edges:	37621632
+dynamic_shared_size: 12556
+	 GPU Preprocess time: 0.0204306 seconds
+TC_Blocks:	293919
+Exp_Edges:	37621632
+dynamic_shared_size: 12556
+	 GPU Preprocess time: 0.0203633 seconds
+TC_Blocks:	293919
+Exp_Edges:	37621632
+dynamic_shared_size: 9380
+	 GPU Preprocess time: 0.0156395 seconds
+TC_Blocks:	286638
+Exp_Edges:	36689664
+dynamic_shared_size: 9380
+	 GPU Preprocess time: 0.0155911 seconds
+TC_Blocks:	286638
+Exp_Edges:	36689664
+dynamic_shared_size: 9380
+	 GPU Preprocess time: 0.0155735 seconds
+TC_Blocks:	286638
+Exp_Edges:	36689664
+dynamic_shared_size: 12556
+	 GPU Preprocess time: 0.0203606 seconds
+TC_Blocks:	293919
+Exp_Edges:	37621632
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00138834 seconds
+TC_Blocks:	11690
+Exp_Edges:	1496320
+dynamic_shared_size: 204
+	 GPU Preprocess time: 0.00328357 seconds
+TC_Blocks:	42199
+Exp_Edges:	5401472
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00166679 seconds
+TC_Blocks:	5602
+Exp_Edges:	717056
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00107931 seconds
+TC_Blocks:	4989
+Exp_Edges:	638592
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.00117438 seconds
+TC_Blocks:	6456
+Exp_Edges:	826368
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00165466 seconds
+TC_Blocks:	7672
+Exp_Edges:	982016
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00326742 seconds
+TC_Blocks:	21107
+Exp_Edges:	2701696
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0020197 seconds
+TC_Blocks:	19334
+Exp_Edges:	2474752
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00290144 seconds
+TC_Blocks:	22794
+Exp_Edges:	2917632
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.00252943 seconds
+TC_Blocks:	14998
+Exp_Edges:	1919744
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00219862 seconds
+TC_Blocks:	11527
+Exp_Edges:	1475456
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00215196 seconds
+TC_Blocks:	11921
+Exp_Edges:	1525888
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00217356 seconds
+TC_Blocks:	25491
+Exp_Edges:	3262848
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00137028 seconds
+TC_Blocks:	6012
+Exp_Edges:	769536
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.00226633 seconds
+TC_Blocks:	219715
+Exp_Edges:	28123520
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.00535182 seconds
+TC_Blocks:	117369
+Exp_Edges:	15023232
+dynamic_shared_size: 40020
+	 GPU Preprocess time: 0.0610235 seconds
+TC_Blocks:	20000
+Exp_Edges:	2560000
+dynamic_shared_size: 10020
+	 GPU Preprocess time: 0.0141087 seconds
+TC_Blocks:	6873
+Exp_Edges:	879744
+dynamic_shared_size: 10020
+	 GPU Preprocess time: 0.0141034 seconds
+TC_Blocks:	6874
+Exp_Edges:	879872
+dynamic_shared_size: 524
+	 GPU Preprocess time: 0.00599978 seconds
+TC_Blocks:	129267
+Exp_Edges:	16546176
+dynamic_shared_size: 772
+	 GPU Preprocess time: 0.00730003 seconds
+TC_Blocks:	79993
+Exp_Edges:	10239104
+dynamic_shared_size: 364
+	 GPU Preprocess time: 0.00593617 seconds
+TC_Blocks:	128143
+Exp_Edges:	16402304
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.0234036 seconds
+TC_Blocks:	853436
+Exp_Edges:	109239808
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00387826 seconds
+TC_Blocks:	88410
+Exp_Edges:	11316480
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.0182144 seconds
+TC_Blocks:	700673
+Exp_Edges:	89686144
+dynamic_shared_size: 93268
+	 GPU Preprocess time: 0.593584 seconds
+TC_Blocks:	34972
+Exp_Edges:	4476416
+dynamic_shared_size: 26780
+	 GPU Preprocess time: 0.0559957 seconds
+TC_Blocks:	97713
+Exp_Edges:	12507264
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.00676662 seconds
+TC_Blocks:	26500
+Exp_Edges:	3392000
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.000890467 seconds
+TC_Blocks:	6039
+Exp_Edges:	772992
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.000843613 seconds
+TC_Blocks:	9229
+Exp_Edges:	1181312
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.0396063 seconds
+TC_Blocks:	1943777
+Exp_Edges:	248803456
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.00484025 seconds
+TC_Blocks:	6471
+Exp_Edges:	828288
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00832318 seconds
+TC_Blocks:	210652
+Exp_Edges:	26963456
+dynamic_shared_size: 828
+	 GPU Preprocess time: 0.00191122 seconds
+TC_Blocks:	3351
+Exp_Edges:	428928
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.00101466 seconds
+TC_Blocks:	3260
+Exp_Edges:	417280
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00102168 seconds
+TC_Blocks:	3717
+Exp_Edges:	475776
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.000944345 seconds
+TC_Blocks:	4353
+Exp_Edges:	557184
+dynamic_shared_size: 676
+	 GPU Preprocess time: 0.00150852 seconds
+TC_Blocks:	9417
+Exp_Edges:	1205376
+dynamic_shared_size: 964
+	 GPU Preprocess time: 0.00172762 seconds
+TC_Blocks:	6488
+Exp_Edges:	830464
+dynamic_shared_size: 1564
+	 GPU Preprocess time: 0.00249074 seconds
+TC_Blocks:	7149
+Exp_Edges:	915072
+dynamic_shared_size: 1556
+	 GPU Preprocess time: 0.00249751 seconds
+TC_Blocks:	7508
+Exp_Edges:	961024
+dynamic_shared_size: 1604
+	 GPU Preprocess time: 0.002545 seconds
+TC_Blocks:	8142
+Exp_Edges:	1042176
+dynamic_shared_size: 1748
+	 GPU Preprocess time: 0.00268151 seconds
+TC_Blocks:	7995
+Exp_Edges:	1023360
+dynamic_shared_size: 412
+	 GPU Preprocess time: 0.00153788 seconds
+TC_Blocks:	9367
+Exp_Edges:	1198976
+dynamic_shared_size: 1748
+	 GPU Preprocess time: 0.00302476 seconds
+TC_Blocks:	10499
+Exp_Edges:	1343872
+dynamic_shared_size: 2948
+	 GPU Preprocess time: 0.00487032 seconds
+TC_Blocks:	15121
+Exp_Edges:	1935488
+dynamic_shared_size: 1460
+	 GPU Preprocess time: 0.00269923 seconds
+TC_Blocks:	11984
+Exp_Edges:	1533952
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0012103 seconds
+TC_Blocks:	10822
+Exp_Edges:	1385216
+dynamic_shared_size: 5148
+	 GPU Preprocess time: 0.00795092 seconds
+TC_Blocks:	24993
+Exp_Edges:	3199104
+dynamic_shared_size: 3100
+	 GPU Preprocess time: 0.00475027 seconds
+TC_Blocks:	17846
+Exp_Edges:	2284288
+dynamic_shared_size: 2228
+	 GPU Preprocess time: 0.00352785 seconds
+TC_Blocks:	13535
+Exp_Edges:	1732480
+dynamic_shared_size: 2844
+	 GPU Preprocess time: 0.00428945 seconds
+TC_Blocks:	14489
+Exp_Edges:	1854592
+dynamic_shared_size: 5132
+	 GPU Preprocess time: 0.00767453 seconds
+TC_Blocks:	22167
+Exp_Edges:	2837376
+dynamic_shared_size: 5132
+	 GPU Preprocess time: 0.00772633 seconds
+TC_Blocks:	22167
+Exp_Edges:	2837376
+dynamic_shared_size: 3268
+	 GPU Preprocess time: 0.004943 seconds
+TC_Blocks:	16347
+Exp_Edges:	2092416
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.00173564 seconds
+TC_Blocks:	16780
+Exp_Edges:	2147840
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.00173616 seconds
+TC_Blocks:	16780
+Exp_Edges:	2147840
+dynamic_shared_size: 3284
+	 GPU Preprocess time: 0.00489366 seconds
+TC_Blocks:	15760
+Exp_Edges:	2017280
+dynamic_shared_size: 2964
+	 GPU Preprocess time: 0.00472076 seconds
+TC_Blocks:	17417
+Exp_Edges:	2229376
+dynamic_shared_size: 2964
+	 GPU Preprocess time: 0.00461187 seconds
+TC_Blocks:	17417
+Exp_Edges:	2229376
+dynamic_shared_size: 564
+	 GPU Preprocess time: 0.00171174 seconds
+TC_Blocks:	16188
+Exp_Edges:	2072064
+dynamic_shared_size: 2804
+	 GPU Preprocess time: 0.0044264 seconds
+TC_Blocks:	24733
+Exp_Edges:	3165824
+dynamic_shared_size: 4324
+	 GPU Preprocess time: 0.00641464 seconds
+TC_Blocks:	24431
+Exp_Edges:	3127168
+dynamic_shared_size: 4396
+	 GPU Preprocess time: 0.00717675 seconds
+TC_Blocks:	25491
+Exp_Edges:	3262848
+dynamic_shared_size: 6756
+	 GPU Preprocess time: 0.00992222 seconds
+TC_Blocks:	34009
+Exp_Edges:	4353152
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00182445 seconds
+TC_Blocks:	57379
+Exp_Edges:	7344512
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00185678 seconds
+TC_Blocks:	57379
+Exp_Edges:	7344512
+dynamic_shared_size: 924
+	 GPU Preprocess time: 0.00223443 seconds
+TC_Blocks:	24126
+Exp_Edges:	3088128
+dynamic_shared_size: 428
+	 GPU Preprocess time: 0.00120356 seconds
+TC_Blocks:	12086
+Exp_Edges:	1547008
+dynamic_shared_size: 556
+	 GPU Preprocess time: 0.018985 seconds
+TC_Blocks:	2837322
+Exp_Edges:	363177216
+dynamic_shared_size: 372
+	 GPU Preprocess time: 0.00196723 seconds
+TC_Blocks:	73429
+Exp_Edges:	9398912
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00306412 seconds
+TC_Blocks:	52583
+Exp_Edges:	6730624
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00192785 seconds
+TC_Blocks:	13850
+Exp_Edges:	1772800
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00102053 seconds
+TC_Blocks:	3172
+Exp_Edges:	406016
+dynamic_shared_size: 19612
+	 GPU Preprocess time: 0.0298817 seconds
+TC_Blocks:	108520
+Exp_Edges:	13890560
+dynamic_shared_size: 628
+	 GPU Preprocess time: 0.00195781 seconds
+TC_Blocks:	6544
+Exp_Edges:	837632
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.000872182 seconds
+TC_Blocks:	9471
+Exp_Edges:	1212288
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0020033 seconds
+TC_Blocks:	49558
+Exp_Edges:	6343424
+dynamic_shared_size: 68132
+	 GPU Preprocess time: 0.457751 seconds
+TC_Blocks:	191129
+Exp_Edges:	24464512
+dynamic_shared_size: 7492
+	 GPU Preprocess time: 0.0110071 seconds
+TC_Blocks:	23582
+Exp_Edges:	3018496
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.0130464 seconds
+TC_Blocks:	1484861
+Exp_Edges:	190062208
+dynamic_shared_size: 1140
+	 GPU Preprocess time: 0.00395035 seconds
+TC_Blocks:	151583
+Exp_Edges:	19402624
+dynamic_shared_size: 988
+	 GPU Preprocess time: 0.0130305 seconds
+TC_Blocks:	2099493
+Exp_Edges:	268735104
+dynamic_shared_size: 3308
+	 GPU Preprocess time: 0.00543103 seconds
+TC_Blocks:	22295
+Exp_Edges:	2853760
+dynamic_shared_size: 3308
+	 GPU Preprocess time: 0.00525745 seconds
+TC_Blocks:	22295
+Exp_Edges:	2853760
+dynamic_shared_size: 2740
+	 GPU Preprocess time: 0.0087305 seconds
+TC_Blocks:	109435
+Exp_Edges:	14007680
+dynamic_shared_size: 356
+	 GPU Preprocess time: 0.0040757 seconds
+TC_Blocks:	340314
+Exp_Edges:	43560192
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00253477 seconds
+TC_Blocks:	52926
+Exp_Edges:	6774528
+dynamic_shared_size: 148
+	 GPU Preprocess time: 0.00280396 seconds
+TC_Blocks:	77260
+Exp_Edges:	9889280
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00121126 seconds
+TC_Blocks:	10920
+Exp_Edges:	1397760
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00130575 seconds
+TC_Blocks:	16219
+Exp_Edges:	2076032
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00295645 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00271075 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00288492 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00283401 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00379957 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00263332 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00263348 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00365441 seconds
+TC_Blocks:	74573
+Exp_Edges:	9545344
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00116946 seconds
+TC_Blocks:	22562
+Exp_Edges:	2887936
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00199526 seconds
+TC_Blocks:	50718
+Exp_Edges:	6491904
+dynamic_shared_size: 892
+	 GPU Preprocess time: 0.0206837 seconds
+TC_Blocks:	313108
+Exp_Edges:	40077824
+dynamic_shared_size: 740
+	 GPU Preprocess time: 0.0125078 seconds
+TC_Blocks:	374373
+Exp_Edges:	47919744
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00111622 seconds
+TC_Blocks:	9240
+Exp_Edges:	1182720
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.0152576 seconds
+TC_Blocks:	549076
+Exp_Edges:	70281728
+dynamic_shared_size: 804
+	 GPU Preprocess time: 0.00703814 seconds
+TC_Blocks:	111657
+Exp_Edges:	14292096
+dynamic_shared_size: 884
+	 GPU Preprocess time: 0.00840214 seconds
+TC_Blocks:	149987
+Exp_Edges:	19198336
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00200615 seconds
+TC_Blocks:	8959
+Exp_Edges:	1146752
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00185251 seconds
+TC_Blocks:	11615
+Exp_Edges:	1486720
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00218618 seconds
+TC_Blocks:	20933
+Exp_Edges:	2679424
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00120685 seconds
+TC_Blocks:	10775
+Exp_Edges:	1379200
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00146697 seconds
+TC_Blocks:	19443
+Exp_Edges:	2488704
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00114009 seconds
+TC_Blocks:	20865
+Exp_Edges:	2670720
+dynamic_shared_size: 516
+	 GPU Preprocess time: 0.00405613 seconds
+TC_Blocks:	30379
+Exp_Edges:	3888512
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0395778 seconds
+TC_Blocks:	1755200
+Exp_Edges:	224665600
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0595823 seconds
+TC_Blocks:	1755200
+Exp_Edges:	224665600
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.000921039 seconds
+TC_Blocks:	3325
+Exp_Edges:	425600
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00961939 seconds
+TC_Blocks:	741625
+Exp_Edges:	94928000
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00100265 seconds
+TC_Blocks:	9045
+Exp_Edges:	1157760
+dynamic_shared_size: 748
+	 GPU Preprocess time: 0.00195136 seconds
+TC_Blocks:	6574
+Exp_Edges:	841472
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.0020427 seconds
+TC_Blocks:	122871
+Exp_Edges:	15727488
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00180233 seconds
+TC_Blocks:	24589
+Exp_Edges:	3147392
+dynamic_shared_size: 532
+	 GPU Preprocess time: 0.00254525 seconds
+TC_Blocks:	61379
+Exp_Edges:	7856512
+dynamic_shared_size: 114204
+	 GPU Preprocess time: 0.258855 seconds
+TC_Blocks:	52961
+Exp_Edges:	6779008
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00100237 seconds
+TC_Blocks:	7317
+Exp_Edges:	936576
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.00244815 seconds
+TC_Blocks:	262140
+Exp_Edges:	33553920
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.00100014 seconds
+TC_Blocks:	7570
+Exp_Edges:	968960
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.00110474 seconds
+TC_Blocks:	15151
+Exp_Edges:	1939328
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.00139548 seconds
+TC_Blocks:	30366
+Exp_Edges:	3886848
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00172904 seconds
+TC_Blocks:	60682
+Exp_Edges:	7767296
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00217908 seconds
+TC_Blocks:	121537
+Exp_Edges:	15556736
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.0030966 seconds
+TC_Blocks:	242879
+Exp_Edges:	31088512
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00508748 seconds
+TC_Blocks:	486400
+Exp_Edges:	62259200
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00901543 seconds
+TC_Blocks:	971343
+Exp_Edges:	124331904
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00199851 seconds
+TC_Blocks:	38999
+Exp_Edges:	4991872
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00110342 seconds
+TC_Blocks:	10822
+Exp_Edges:	1385216
+dynamic_shared_size: 564
+	 GPU Preprocess time: 0.0140938 seconds
+TC_Blocks:	618202
+Exp_Edges:	79129856
+dynamic_shared_size: 380
+	 GPU Preprocess time: 0.0165888 seconds
+TC_Blocks:	1214424
+Exp_Edges:	155446272
+dynamic_shared_size: 940
+	 GPU Preprocess time: 0.0125625 seconds
+TC_Blocks:	601593
+Exp_Edges:	77003904
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00149186 seconds
+TC_Blocks:	7940
+Exp_Edges:	1016320
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00226135 seconds
+TC_Blocks:	65849
+Exp_Edges:	8428672
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.00233747 seconds
+TC_Blocks:	19863
+Exp_Edges:	2542464
+dynamic_shared_size: 1356
+	 GPU Preprocess time: 0.00262464 seconds
+TC_Blocks:	38073
+Exp_Edges:	4873344
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.00318334 seconds
+TC_Blocks:	312374
+Exp_Edges:	39983872
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.00293471 seconds
+TC_Blocks:	312125
+Exp_Edges:	39952000
+dynamic_shared_size: 3092
+	 GPU Preprocess time: 0.00597058 seconds
+TC_Blocks:	33175
+Exp_Edges:	4246400
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0138315 seconds
+TC_Blocks:	727260
+Exp_Edges:	93089280
+dynamic_shared_size: 604
+	 GPU Preprocess time: 0.00411506 seconds
+TC_Blocks:	105029
+Exp_Edges:	13443712
+dynamic_shared_size: 2268
+	 GPU Preprocess time: 0.00535082 seconds
+TC_Blocks:	24631
+Exp_Edges:	3152768
+dynamic_shared_size: 6996
+	 GPU Preprocess time: 0.0204738 seconds
+TC_Blocks:	707219
+Exp_Edges:	90524032
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00282806 seconds
+TC_Blocks:	25288
+Exp_Edges:	3236864
+dynamic_shared_size: 148
+	 GPU Preprocess time: 0.0013993 seconds
+TC_Blocks:	9986
+Exp_Edges:	1278208
+dynamic_shared_size: 740
+	 GPU Preprocess time: 0.0122311 seconds
+TC_Blocks:	405941
+Exp_Edges:	51960448
+dynamic_shared_size: 476
+	 GPU Preprocess time: 0.00379341 seconds
+TC_Blocks:	82396
+Exp_Edges:	10546688
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.0102045 seconds
+TC_Blocks:	464519
+Exp_Edges:	59458432
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00595967 seconds
+TC_Blocks:	113265
+Exp_Edges:	14497920
+dynamic_shared_size: 676
+	 GPU Preprocess time: 0.014461 seconds
+TC_Blocks:	838962
+Exp_Edges:	107387136
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.00242816 seconds
+TC_Blocks:	99642
+Exp_Edges:	12754176
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00144051 seconds
+TC_Blocks:	15015
+Exp_Edges:	1921920
+dynamic_shared_size: 244
+	 GPU Preprocess time: 0.0374021 seconds
+TC_Blocks:	1437897
+Exp_Edges:	184050816
+dynamic_shared_size: 11188
+	 GPU Preprocess time: 0.0225092 seconds
+TC_Blocks:	1091063
+Exp_Edges:	139656064
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.00144274 seconds
+TC_Blocks:	8415
+Exp_Edges:	1077120
+dynamic_shared_size: 436
+	 GPU Preprocess time: 0.0128988 seconds
+TC_Blocks:	1655115
+Exp_Edges:	211854720
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00557075 seconds
+TC_Blocks:	115591
+Exp_Edges:	14795648
+dynamic_shared_size: 356
+	 GPU Preprocess time: 0.00154247 seconds
+TC_Blocks:	11413
+Exp_Edges:	1460864
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00127424 seconds
+TC_Blocks:	45026
+Exp_Edges:	5763328
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00390499 seconds
+TC_Blocks:	474683
+Exp_Edges:	60759424
+dynamic_shared_size: 908
+	 GPU Preprocess time: 0.00548147 seconds
+TC_Blocks:	197003
+Exp_Edges:	25216384
+dynamic_shared_size: 956
+	 GPU Preprocess time: 0.00670109 seconds
+TC_Blocks:	253086
+Exp_Edges:	32395008
+dynamic_shared_size: 1436
+	 GPU Preprocess time: 0.0114678 seconds
+TC_Blocks:	131173
+Exp_Edges:	16790144
+dynamic_shared_size: 972
+	 GPU Preprocess time: 0.00988044 seconds
+TC_Blocks:	527130
+Exp_Edges:	67472640
+dynamic_shared_size: 1300
+	 GPU Preprocess time: 0.011035 seconds
+TC_Blocks:	103067
+Exp_Edges:	13192576
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00183565 seconds
+TC_Blocks:	50775
+Exp_Edges:	6499200
+dynamic_shared_size: 836
+	 GPU Preprocess time: 0.00607998 seconds
+TC_Blocks:	222389
+Exp_Edges:	28465792
+dynamic_shared_size: 836
+	 GPU Preprocess time: 0.00625327 seconds
+TC_Blocks:	229691
+Exp_Edges:	29400448
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.00470081 seconds
+TC_Blocks:	116765
+Exp_Edges:	14945920
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.0205014 seconds
+TC_Blocks:	1073155
+Exp_Edges:	137363840
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.00162066 seconds
+TC_Blocks:	15286
+Exp_Edges:	1956608
+dynamic_shared_size: 1644
+	 GPU Preprocess time: 0.0337365 seconds
+TC_Blocks:	1030610
+Exp_Edges:	131918080
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.0234054 seconds
+TC_Blocks:	36207
+Exp_Edges:	4634496
+dynamic_shared_size: 244
+	 GPU Preprocess time: 0.0234032 seconds
+TC_Blocks:	71835
+Exp_Edges:	9194880
+dynamic_shared_size: 15188
+	 GPU Preprocess time: 0.586377 seconds
+TC_Blocks:	60430
+Exp_Edges:	7735040
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.0221408 seconds
+TC_Blocks:	13814
+Exp_Edges:	1768192
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.0221819 seconds
+TC_Blocks:	13814
+Exp_Edges:	1768192
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.0219812 seconds
+TC_Blocks:	12785
+Exp_Edges:	1636480
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.0214918 seconds
+TC_Blocks:	96379
+Exp_Edges:	12336512
+dynamic_shared_size: 324
+	 GPU Preprocess time: 0.0259118 seconds
+TC_Blocks:	124508
+Exp_Edges:	15937024
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.024363 seconds
+TC_Blocks:	428203
+Exp_Edges:	54809984
+dynamic_shared_size: 6924
+	 GPU Preprocess time: 0.0383342 seconds
+TC_Blocks:	6274
+Exp_Edges:	803072
+dynamic_shared_size: 7124
+	 GPU Preprocess time: 0.038483 seconds
+TC_Blocks:	6454
+Exp_Edges:	826112
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.0216935 seconds
+TC_Blocks:	116682
+Exp_Edges:	14935296
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.0218393 seconds
+TC_Blocks:	17758
+Exp_Edges:	2273024
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.0220423 seconds
+TC_Blocks:	7686
+Exp_Edges:	983808
+dynamic_shared_size: 21452
+	 GPU Preprocess time: 0.244898 seconds
+TC_Blocks:	3360591
+Exp_Edges:	430155648
+dynamic_shared_size: 148
+	 GPU Preprocess time: 0.0251353 seconds
+TC_Blocks:	119524
+Exp_Edges:	15299072
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.0198676 seconds
+TC_Blocks:	961184
+Exp_Edges:	123031552
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.00212789 seconds
+TC_Blocks:	61986
+Exp_Edges:	7934208
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.00198064 seconds
+TC_Blocks:	61718
+Exp_Edges:	7899904
+dynamic_shared_size: 10644
+	 GPU Preprocess time: 0.0812184 seconds
+TC_Blocks:	607569
+Exp_Edges:	77768832
+dynamic_shared_size: 8620
+	 GPU Preprocess time: 0.0749121 seconds
+TC_Blocks:	363605
+Exp_Edges:	46541440
+dynamic_shared_size: 9564
+	 GPU Preprocess time: 0.0145592 seconds
+TC_Blocks:	41368
+Exp_Edges:	5295104
+dynamic_shared_size: 324
+	 GPU Preprocess time: 0.00140872 seconds
+TC_Blocks:	16713
+Exp_Edges:	2139264
+dynamic_shared_size: 7780
+	 GPU Preprocess time: 0.0311054 seconds
+TC_Blocks:	460431
+Exp_Edges:	58935168
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00180511 seconds
+TC_Blocks:	8781
+Exp_Edges:	1123968
+dynamic_shared_size: 4820
+	 GPU Preprocess time: 0.0284397 seconds
+TC_Blocks:	494741
+Exp_Edges:	63326848
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00159009 seconds
+TC_Blocks:	19454
+Exp_Edges:	2490112
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00430839 seconds
+TC_Blocks:	11555
+Exp_Edges:	1479040
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00258388 seconds
+TC_Blocks:	8635
+Exp_Edges:	1105280
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.0207114 seconds
+TC_Blocks:	30775
+Exp_Edges:	3939200
+dynamic_shared_size: 212
+	 GPU Preprocess time: 0.00638957 seconds
+TC_Blocks:	1029670
+Exp_Edges:	131797760
+dynamic_shared_size: 10052
+	 GPU Preprocess time: 0.0254935 seconds
+TC_Blocks:	272616
+Exp_Edges:	34894848
+dynamic_shared_size: 28868
+	 GPU Preprocess time: 0.0499798 seconds
+TC_Blocks:	587591
+Exp_Edges:	75211648
+dynamic_shared_size: 29452
+	 GPU Preprocess time: 0.0522901 seconds
+TC_Blocks:	1246886
+Exp_Edges:	159601408
+dynamic_shared_size: 65852
+	 GPU Preprocess time: 0.226654 seconds
+TC_Blocks:	2612717
+Exp_Edges:	334427776
+dynamic_shared_size: 74844
+	 GPU Preprocess time: 0.177052 seconds
+TC_Blocks:	5434025
+Exp_Edges:	695555200
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00426413 seconds
+TC_Blocks:	102591
+Exp_Edges:	13131648
+dynamic_shared_size: 11580
+	 GPU Preprocess time: 0.0174542 seconds
+TC_Blocks:	128696
+Exp_Edges:	16473088
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00461943 seconds
+TC_Blocks:	225008
+Exp_Edges:	28801024
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0262995 seconds
+TC_Blocks:	500601
+Exp_Edges:	64076928
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00208365 seconds
+TC_Blocks:	21375
+Exp_Edges:	2736000
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00200086 seconds
+TC_Blocks:	21375
+Exp_Edges:	2736000
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00254221 seconds
+TC_Blocks:	42758
+Exp_Edges:	5473024
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.0025961 seconds
+TC_Blocks:	42758
+Exp_Edges:	5473024
+dynamic_shared_size: 356
+	 GPU Preprocess time: 0.00295144 seconds
+TC_Blocks:	40679
+Exp_Edges:	5206912
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.0278423 seconds
+TC_Blocks:	1263556
+Exp_Edges:	161735168
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.0717288 seconds
+TC_Blocks:	1263556
+Exp_Edges:	161735168
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0221349 seconds
+TC_Blocks:	8917
+Exp_Edges:	1141376
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0221995 seconds
+TC_Blocks:	8964
+Exp_Edges:	1147392
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0221949 seconds
+TC_Blocks:	9017
+Exp_Edges:	1154176
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0221603 seconds
+TC_Blocks:	9031
+Exp_Edges:	1155968
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00106986 seconds
+TC_Blocks:	6623
+Exp_Edges:	847744
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0378971 seconds
+TC_Blocks:	7948
+Exp_Edges:	1017344
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00412637 seconds
+TC_Blocks:	8252
+Exp_Edges:	1056256
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0344593 seconds
+TC_Blocks:	8489
+Exp_Edges:	1086592
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00696755 seconds
+TC_Blocks:	8637
+Exp_Edges:	1105536
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00272066 seconds
+TC_Blocks:	8798
+Exp_Edges:	1126144
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00190533 seconds
+TC_Blocks:	101018
+Exp_Edges:	12930304
+dynamic_shared_size: 36
+	 GPU Preprocess time: 0.00101999 seconds
+TC_Blocks:	16649
+Exp_Edges:	2131072
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00247602 seconds
+TC_Blocks:	167510
+Exp_Edges:	21441280
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.000998668 seconds
+TC_Blocks:	12091
+Exp_Edges:	1547648
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.00194435 seconds
+TC_Blocks:	122871
+Exp_Edges:	15727488
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00106808 seconds
+TC_Blocks:	9357
+Exp_Edges:	1197696
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00115275 seconds
+TC_Blocks:	14123
+Exp_Edges:	1807744
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00114418 seconds
+TC_Blocks:	20573
+Exp_Edges:	2633344
+dynamic_shared_size: 1604
+	 GPU Preprocess time: 0.00476928 seconds
+TC_Blocks:	8791
+Exp_Edges:	1125248
+dynamic_shared_size: 748
+	 GPU Preprocess time: 0.0153731 seconds
+TC_Blocks:	57513
+Exp_Edges:	7361664
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.0187329 seconds
+TC_Blocks:	541474
+Exp_Edges:	69308672
+dynamic_shared_size: 11284
+	 GPU Preprocess time: 0.0398137 seconds
+TC_Blocks:	1115494
+Exp_Edges:	142783232
+dynamic_shared_size: 508
+	 GPU Preprocess time: 0.00421398 seconds
+TC_Blocks:	11589
+Exp_Edges:	1483392
+dynamic_shared_size: 412
+	 GPU Preprocess time: 0.00322999 seconds
+TC_Blocks:	14176
+Exp_Edges:	1814528
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.00769158 seconds
+TC_Blocks:	240302
+Exp_Edges:	30758656
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.00584764 seconds
+TC_Blocks:	96354
+Exp_Edges:	12333312
+dynamic_shared_size: 22780
+	 GPU Preprocess time: 0.0334845 seconds
+TC_Blocks:	18585
+Exp_Edges:	2378880
+dynamic_shared_size: 22780
+	 GPU Preprocess time: 0.0334576 seconds
+TC_Blocks:	18585
+Exp_Edges:	2378880
+dynamic_shared_size: 22780
+	 GPU Preprocess time: 0.0332888 seconds
+TC_Blocks:	18579
+Exp_Edges:	2378112
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00313573 seconds
+TC_Blocks:	357863
+Exp_Edges:	45806464
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00255572 seconds
+TC_Blocks:	33881
+Exp_Edges:	4336768
+dynamic_shared_size: 1212
+	 GPU Preprocess time: 0.0117929 seconds
+TC_Blocks:	95940
+Exp_Edges:	12280320
+dynamic_shared_size: 1076
+	 GPU Preprocess time: 0.0163564 seconds
+TC_Blocks:	194671
+Exp_Edges:	24917888
+dynamic_shared_size: 996
+	 GPU Preprocess time: 0.00988813 seconds
+TC_Blocks:	46203
+Exp_Edges:	5913984
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00403915 seconds
+TC_Blocks:	53342
+Exp_Edges:	6827776
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00428552 seconds
+TC_Blocks:	67202
+Exp_Edges:	8601856
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00426311 seconds
+TC_Blocks:	81051
+Exp_Edges:	10374528
+dynamic_shared_size: 948
+	 GPU Preprocess time: 0.00317706 seconds
+TC_Blocks:	128123
+Exp_Edges:	16399744
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00371641 seconds
+TC_Blocks:	25529
+Exp_Edges:	3267712
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00386083 seconds
+TC_Blocks:	39464
+Exp_Edges:	5051392
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.00289714 seconds
+TC_Blocks:	346758
+Exp_Edges:	44385024
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00120151 seconds
+TC_Blocks:	14555
+Exp_Edges:	1863040
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00926619 seconds
+TC_Blocks:	1426679
+Exp_Edges:	182614912
+dynamic_shared_size: 468
+	 GPU Preprocess time: 0.00228376 seconds
+TC_Blocks:	62227
+Exp_Edges:	7965056
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00126795 seconds
+TC_Blocks:	26176
+Exp_Edges:	3350528
+dynamic_shared_size: 7300
+	 GPU Preprocess time: 0.0161282 seconds
+TC_Blocks:	477511
+Exp_Edges:	61121408
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00269429 seconds
+TC_Blocks:	33656
+Exp_Edges:	4307968
+dynamic_shared_size: 148
+	 GPU Preprocess time: 0.00194976 seconds
+TC_Blocks:	9949
+Exp_Edges:	1273472
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00117324 seconds
+TC_Blocks:	15613
+Exp_Edges:	1998464
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00185536 seconds
+TC_Blocks:	12556
+Exp_Edges:	1607168
+dynamic_shared_size: 308
+	 GPU Preprocess time: 0.00325253 seconds
+TC_Blocks:	17133
+Exp_Edges:	2193024
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00108986 seconds
+TC_Blocks:	20134
+Exp_Edges:	2577152
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.0027109 seconds
+TC_Blocks:	196428
+Exp_Edges:	25142784
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.0113003 seconds
+TC_Blocks:	1911176
+Exp_Edges:	244630528
+dynamic_shared_size: 9460
+	 GPU Preprocess time: 0.0216276 seconds
+TC_Blocks:	326873
+Exp_Edges:	41839744
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00194996 seconds
+TC_Blocks:	11615
+Exp_Edges:	1486720
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00215477 seconds
+TC_Blocks:	20933
+Exp_Edges:	2679424
+dynamic_shared_size: 516
+	 GPU Preprocess time: 0.00398165 seconds
+TC_Blocks:	30379
+Exp_Edges:	3888512
+dynamic_shared_size: 324
+	 GPU Preprocess time: 0.00436909 seconds
+TC_Blocks:	33714
+Exp_Edges:	4315392
+dynamic_shared_size: 340
+	 GPU Preprocess time: 0.00116426 seconds
+TC_Blocks:	7312
+Exp_Edges:	935936
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.0126741 seconds
+TC_Blocks:	486158
+Exp_Edges:	62228224
+dynamic_shared_size: 324
+	 GPU Preprocess time: 0.00275532 seconds
+TC_Blocks:	13309
+Exp_Edges:	1703552
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.00342021 seconds
+TC_Blocks:	8868
+Exp_Edges:	1135104
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00294575 seconds
+TC_Blocks:	39802
+Exp_Edges:	5094656
+dynamic_shared_size: 4396
+	 GPU Preprocess time: 0.0238104 seconds
+TC_Blocks:	57664
+Exp_Edges:	7380992
+dynamic_shared_size: 380
+	 GPU Preprocess time: 0.00327397 seconds
+TC_Blocks:	29374
+Exp_Edges:	3759872
+dynamic_shared_size: 396
+	 GPU Preprocess time: 0.00335455 seconds
+TC_Blocks:	34232
+Exp_Edges:	4381696
+dynamic_shared_size: 1100
+	 GPU Preprocess time: 0.00527457 seconds
+TC_Blocks:	31146
+Exp_Edges:	3986688
+dynamic_shared_size: 1124
+	 GPU Preprocess time: 0.00557504 seconds
+TC_Blocks:	43379
+Exp_Edges:	5552512
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00244184 seconds
+TC_Blocks:	20753
+Exp_Edges:	2656384
+dynamic_shared_size: 364
+	 GPU Preprocess time: 0.00383632 seconds
+TC_Blocks:	51433
+Exp_Edges:	6583424
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.0237259 seconds
+TC_Blocks:	69294
+Exp_Edges:	8869632
+dynamic_shared_size: 7772
+	 GPU Preprocess time: 0.109976 seconds
+TC_Blocks:	112825
+Exp_Edges:	14441600
+dynamic_shared_size: 740
+	 GPU Preprocess time: 0.0275716 seconds
+TC_Blocks:	104883
+Exp_Edges:	13425024
+dynamic_shared_size: 964
+	 GPU Preprocess time: 0.0309635 seconds
+TC_Blocks:	186418
+Exp_Edges:	23861504
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.0217054 seconds
+TC_Blocks:	21920
+Exp_Edges:	2805760
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.0302485 seconds
+TC_Blocks:	192175
+Exp_Edges:	24598400
+dynamic_shared_size: 204
+	 GPU Preprocess time: 0.0218954 seconds
+TC_Blocks:	9205
+Exp_Edges:	1178240
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.0275581 seconds
+TC_Blocks:	101444
+Exp_Edges:	12984832
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.021394 seconds
+TC_Blocks:	45525
+Exp_Edges:	5827200
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.021391 seconds
+TC_Blocks:	45525
+Exp_Edges:	5827200
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.0237647 seconds
+TC_Blocks:	19447
+Exp_Edges:	2489216
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.022235 seconds
+TC_Blocks:	15004
+Exp_Edges:	1920512
+dynamic_shared_size: 3092
+	 GPU Preprocess time: 0.0279968 seconds
+TC_Blocks:	30614
+Exp_Edges:	3918592
+dynamic_shared_size: 5252
+	 GPU Preprocess time: 0.034201 seconds
+TC_Blocks:	13551
+Exp_Edges:	1734528
+dynamic_shared_size: 5244
+	 GPU Preprocess time: 0.0340829 seconds
+TC_Blocks:	17659
+Exp_Edges:	2260352
+dynamic_shared_size: 356
+	 GPU Preprocess time: 0.0241435 seconds
+TC_Blocks:	27037
+Exp_Edges:	3460736
+dynamic_shared_size: 2244
+	 GPU Preprocess time: 0.0270833 seconds
+TC_Blocks:	16572
+Exp_Edges:	2121216
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.0218333 seconds
+TC_Blocks:	16834
+Exp_Edges:	2154752
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0203765 seconds
+TC_Blocks:	3809935
+Exp_Edges:	487671680
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00118787 seconds
+TC_Blocks:	7866
+Exp_Edges:	1006848
+dynamic_shared_size: 204
+	 GPU Preprocess time: 0.00234306 seconds
+TC_Blocks:	22602
+Exp_Edges:	2893056
+dynamic_shared_size: 620
+	 GPU Preprocess time: 0.0269811 seconds
+TC_Blocks:	908606
+Exp_Edges:	116301568
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.00362645 seconds
+TC_Blocks:	45185
+Exp_Edges:	5783680
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.00456028 seconds
+TC_Blocks:	572424
+Exp_Edges:	73270272
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00314593 seconds
+TC_Blocks:	322237
+Exp_Edges:	41246336
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.00354606 seconds
+TC_Blocks:	406428
+Exp_Edges:	52022784
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00285248 seconds
+TC_Blocks:	42182
+Exp_Edges:	5399296
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00249422 seconds
+TC_Blocks:	37565
+Exp_Edges:	4808320
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00249146 seconds
+TC_Blocks:	37565
+Exp_Edges:	4808320
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.0212249 seconds
+TC_Blocks:	1028313
+Exp_Edges:	131624064
+dynamic_shared_size: 10428
+	 GPU Preprocess time: 0.01519 seconds
+TC_Blocks:	12790
+Exp_Edges:	1637120
+dynamic_shared_size: 396
+	 GPU Preprocess time: 0.00393617 seconds
+TC_Blocks:	39591
+Exp_Edges:	5067648
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.00466076 seconds
+TC_Blocks:	91345
+Exp_Edges:	11692160
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.00422332 seconds
+TC_Blocks:	112509
+Exp_Edges:	14401152
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.00524675 seconds
+TC_Blocks:	137933
+Exp_Edges:	17655424
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00398736 seconds
+TC_Blocks:	80694
+Exp_Edges:	10328832
+dynamic_shared_size: 532
+	 GPU Preprocess time: 0.00279532 seconds
+TC_Blocks:	27330
+Exp_Edges:	3498240
+dynamic_shared_size: 804
+	 GPU Preprocess time: 0.00501431 seconds
+TC_Blocks:	169425
+Exp_Edges:	21686400
+dynamic_shared_size: 1132
+	 GPU Preprocess time: 0.0110503 seconds
+TC_Blocks:	387430
+Exp_Edges:	49591040
+dynamic_shared_size: 468
+	 GPU Preprocess time: 0.00290394 seconds
+TC_Blocks:	29724
+Exp_Edges:	3804672
+dynamic_shared_size: 580
+	 GPU Preprocess time: 0.00557825 seconds
+TC_Blocks:	402585
+Exp_Edges:	51530880
+dynamic_shared_size: 1060
+	 GPU Preprocess time: 0.00309814 seconds
+TC_Blocks:	45639
+Exp_Edges:	5841792
+dynamic_shared_size: 676
+	 GPU Preprocess time: 0.00507601 seconds
+TC_Blocks:	49657
+Exp_Edges:	6356096
+dynamic_shared_size: 2572
+	 GPU Preprocess time: 0.0368994 seconds
+TC_Blocks:	289629
+Exp_Edges:	37072512
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00103962 seconds
+TC_Blocks:	5354
+Exp_Edges:	685312
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.00133134 seconds
+TC_Blocks:	30433
+Exp_Edges:	3895424
+dynamic_shared_size: 3596
+	 GPU Preprocess time: 0.00714868 seconds
+TC_Blocks:	331663
+Exp_Edges:	42452864
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.00388356 seconds
+TC_Blocks:	36442
+Exp_Edges:	4664576
+dynamic_shared_size: 1436
+	 GPU Preprocess time: 0.00316717 seconds
+TC_Blocks:	65854
+Exp_Edges:	8429312
+dynamic_shared_size: 484
+	 GPU Preprocess time: 0.00188535 seconds
+TC_Blocks:	100905
+Exp_Edges:	12915840
+dynamic_shared_size: 604
+	 GPU Preprocess time: 0.00519482 seconds
+TC_Blocks:	30029
+Exp_Edges:	3843712
+dynamic_shared_size: 38652
+	 GPU Preprocess time: 0.0619657 seconds
+TC_Blocks:	296665
+Exp_Edges:	37973120
+dynamic_shared_size: 1228
+	 GPU Preprocess time: 0.0122632 seconds
+TC_Blocks:	37373
+Exp_Edges:	4783744
+dynamic_shared_size: 1348
+	 GPU Preprocess time: 0.0147899 seconds
+TC_Blocks:	41352
+Exp_Edges:	5293056
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00135045 seconds
+TC_Blocks:	19582
+Exp_Edges:	2506496
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.000879982 seconds
+TC_Blocks:	4926
+Exp_Edges:	630528
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00176126 seconds
+TC_Blocks:	22504
+Exp_Edges:	2880512
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.000881653 seconds
+TC_Blocks:	3771
+Exp_Edges:	482688
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00082924 seconds
+TC_Blocks:	3771
+Exp_Edges:	482688
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.000833895 seconds
+TC_Blocks:	3771
+Exp_Edges:	482688
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00287453 seconds
+TC_Blocks:	82224
+Exp_Edges:	10524672
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00285686 seconds
+TC_Blocks:	82224
+Exp_Edges:	10524672
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00286727 seconds
+TC_Blocks:	82224
+Exp_Edges:	10524672
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00140621 seconds
+TC_Blocks:	16155
+Exp_Edges:	2067840
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00128853 seconds
+TC_Blocks:	16155
+Exp_Edges:	2067840
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00110789 seconds
+TC_Blocks:	9066
+Exp_Edges:	1160448
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00230497 seconds
+TC_Blocks:	7059
+Exp_Edges:	903552
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00292101 seconds
+TC_Blocks:	10181
+Exp_Edges:	1303168
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00294742 seconds
+TC_Blocks:	10181
+Exp_Edges:	1303168
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00231846 seconds
+TC_Blocks:	7059
+Exp_Edges:	903552
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.000879253 seconds
+TC_Blocks:	2808
+Exp_Edges:	359424
+dynamic_shared_size: 572
+	 GPU Preprocess time: 0.00480626 seconds
+TC_Blocks:	40526
+Exp_Edges:	5187328
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.00289528 seconds
+TC_Blocks:	226170
+Exp_Edges:	28949760
+dynamic_shared_size: 5572
+	 GPU Preprocess time: 0.0722391 seconds
+TC_Blocks:	121714
+Exp_Edges:	15579392
+dynamic_shared_size: 81316
+	 GPU Preprocess time: 0.130492 seconds
+TC_Blocks:	79284
+Exp_Edges:	10148352
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00247489 seconds
+TC_Blocks:	14845
+Exp_Edges:	1900160
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.00145274 seconds
+TC_Blocks:	25908
+Exp_Edges:	3316224
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.00140074 seconds
+TC_Blocks:	25906
+Exp_Edges:	3315968
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.00601757 seconds
+TC_Blocks:	128746
+Exp_Edges:	16479488
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00244457 seconds
+TC_Blocks:	5572
+Exp_Edges:	713216
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00263962 seconds
+TC_Blocks:	15838
+Exp_Edges:	2027264
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00275813 seconds
+TC_Blocks:	20971
+Exp_Edges:	2684288
+dynamic_shared_size: 332
+	 GPU Preprocess time: 0.00520067 seconds
+TC_Blocks:	25567
+Exp_Edges:	3272576
+dynamic_shared_size: 332
+	 GPU Preprocess time: 0.00522999 seconds
+TC_Blocks:	25567
+Exp_Edges:	3272576
+dynamic_shared_size: 396
+	 GPU Preprocess time: 0.00641768 seconds
+TC_Blocks:	50237
+Exp_Edges:	6430336
+dynamic_shared_size: 396
+	 GPU Preprocess time: 0.00764238 seconds
+TC_Blocks:	74920
+Exp_Edges:	9589760
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00213072 seconds
+TC_Blocks:	26222
+Exp_Edges:	3356416
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00248854 seconds
+TC_Blocks:	41355
+Exp_Edges:	5293440
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00182043 seconds
+TC_Blocks:	9716
+Exp_Edges:	1243648
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.000896739 seconds
+TC_Blocks:	3172
+Exp_Edges:	406016
+dynamic_shared_size: 156
+dimN: 128
+144
+144
+2D_27628_bjtcai
+2D_27628_bjtcai
+2D_54019_highK
+2D_54019_highK
+333SP
+333SP
+3D_28984_Tetra
+3D_28984_Tetra
+3D_51448_3D
+3D_51448_3D
+3Dspectralwave
+3Dspectralwave
+3Dspectralwave2
+3Dspectralwave2
+3dtube
+3dtube
+598a
+598a
+a0nsdsil
+a0nsdsil
+a2nnsnsl
+a2nnsnsl
+a5esindl
+a5esindl
+adaptive
+adaptive
+af_0_k101
+af_0_k101
+af_1_k101
+af_1_k101
+af_2_k101
+af_2_k101
+af_3_k101
+af_3_k101
+af_4_k101
+af_4_k101
+af_5_k101
+af_5_k101
+af_shell1
+af_shell1
+af_shell10
+af_shell10
+af_shell2
+af_shell2
+af_shell3
+af_shell3
+af_shell4
+af_shell4
+af_shell5
+af_shell5
+af_shell6
+af_shell6
+af_shell7
+af_shell7
+af_shell8
+af_shell8
+af_shell9
+af_shell9
+ak2010
+ak2010
+amazon0505
+amazon0505
+Andrews
+Andrews
+AS365
+AS365
+as-caida
+as-caida
+as-Skitter
+as-Skitter
+astro-ph
+astro-ph
+auto
+auto
+barrier2-1
+barrier2-1
+barrier2-10
+barrier2-10
+barrier2-11
+barrier2-11
+barrier2-12
+barrier2-12
+barrier2-2
+barrier2-2
+barrier2-3
+barrier2-3
+barrier2-4
+barrier2-4
+barrier2-9
+barrier2-9
+bauru5727
+bauru5727
+bbmat
+bbmat
+bcsstk17
+bcsstk17
+bcsstk18
+bcsstk18
+bcsstk25
+bcsstk25
+bcsstk29
+bcsstk29
+bcsstk30
+bcsstk30
+bcsstk31
+bcsstk31
+bcsstk32
+bcsstk32
+bcsstk35
+bcsstk35
+bcsstk36
+bcsstk36
+bcsstk37
+bcsstk37
+bcsstk39
+bcsstk39
+bcsstm36
+bcsstm36
+belgium_osm
+belgium_osm
+BenElechi1
+BenElechi1
+blockqp1
+blockqp1
+bloweya
+bloweya
+bloweybl
+bloweybl
+bmw3_2
+bmw3_2
+bmw7st_1
+bmw7st_1
+bmwcra_1
+bmwcra_1
+bone010
+bone010
+boneS01
+boneS01
+boneS10
+boneS10
+boyd1
+boyd1
+boyd2
+boyd2
+brack2
+brack2
+brainpc2
+brainpc2
+bratu3d
+bratu3d
+Bump_2911
+Bump_2911
+bundle1
+bundle1
+bundle_adj
+bundle_adj
+c-42
+c-42
+c-43
+c-43
+c-45
+c-45
+c-46
+c-46
+c-47
+c-47
+c-48
+c-48
+c-49
+c-49
+c-50
+c-50
+c-51
+c-51
+c-52
+c-52
+c-53
+c-53
+c-54
+c-54
+c-55
+c-55
+c-56
+c-56
+c-57
+c-57
+c-58
+c-58
+c-59
+c-59
+c-60
+c-60
+c-61
+c-61
+c-62
+c-62
+c-62ghs
+c-62ghs
+c-63
+c-63
+c-64
+c-64
+c-64b
+c-64b
+c-65
+c-65
+c-66
+c-66
+c-66b
+c-66b
+c-67b
+c-67b
+c-68
+c-68
+c-69
+c-69
+c-70
+c-70
+c-71
+c-71
+c-73
+c-73
+c-73b
+c-73b
+ca-AstroPh
+ca-AstroPh
+ca-CondMat
+ca-CondMat
+cage14
+cage14
+caidaRouterLevel
+caidaRouterLevel
+cant
+cant
+case39
+case39
+case9
+case9
+c-big
+c-big
+cbuckle
+cbuckle
+ccc
+ccc
+cfd1
+cfd1
+Chebyshev4
+Chebyshev4
+circuit_4
+circuit_4
+circuit5M_dc
+circuit5M_dc
+citationCiteseer
+citationCiteseer
+cit-Patents
+cit-Patents
+ckt11752_dc_1
+ckt11752_dc_1
+ckt11752_tr_0
+ckt11752_tr_0
+cnr-2000
+cnr-2000
+CO
+CO
+coAuthorsCiteseer
+coAuthorsCiteseer
+coAuthorsDBLP
+coAuthorsDBLP
+cond-mat-2003
+cond-mat-2003
+cond-mat-2005
+cond-mat-2005
+conf5_4-8x8-05
+conf5_4-8x8-05
+conf5_4-8x8-10
+conf5_4-8x8-10
+conf5_4-8x8-15
+conf5_4-8x8-15
+conf5_4-8x8-20
+conf5_4-8x8-20
+conf6_0-8x8-20
+conf6_0-8x8-20
+conf6_0-8x8-30
+conf6_0-8x8-30
+conf6_0-8x8-80
+conf6_0-8x8-80
+consph
+consph
+cont-201
+cont-201
+cont-300
+cont-300
+coPapersCiteseer
+coPapersCiteseer
+coPapersDBLP
+coPapersDBLP
+copter1
+copter1
+CoupCons3D
+CoupCons3D
+crankseg_1
+crankseg_1
+crankseg_2
+crankseg_2
+crplat2
+crplat2
+crystk02
+crystk02
+crystk03
+crystk03
+crystm02
+crystm02
+crystm03
+crystm03
+ct2010
+ct2010
+ct20stif
+ct20stif
+Cube_Coup_dt0
+Cube_Coup_dt0
+Cube_Coup_dt6
+Cube_Coup_dt6
+CurlCurl_0
+CurlCurl_0
+CurlCurl_4
+CurlCurl_4
+cvxqp3
+cvxqp3
+cyl6
+cyl6
+darcy003
+darcy003
+dawson5
+dawson5
+dblp-2010
+dblp-2010
+dc3
+dc3
+de2010
+de2010
+debr
+debr
+delaunay_n15
+delaunay_n15
+delaunay_n16
+delaunay_n16
+delaunay_n17
+delaunay_n17
+delaunay_n18
+delaunay_n18
+delaunay_n19
+delaunay_n19
+delaunay_n20
+delaunay_n20
+delaunay_n21
+delaunay_n21
+delaunay_n22
+delaunay_n22
+denormal
+denormal
+dictionary28
+dictionary28
+dielFilterV2clx
+dielFilterV2clx
+dielFilterV2real
+dielFilterV2real
+dielFilterV3clx
+dielFilterV3clx
+Dubcova1
+Dubcova1
+Dubcova3
+Dubcova3
+e40r0100
+e40r0100
+EAT_RS
+EAT_RS
+ecology1
+ecology1
+ecology2
+ecology2
+email-Enron
+email-Enron
+Emilia_923
+Emilia_923
+engine
+engine
+enron
+enron
+eu-2005
+eu-2005
+ex11
+ex11
+ex19
+ex19
+F1
+F1
+F2
+F2
+Fault_639
+Fault_639
+fcondp2
+fcondp2
+fem_hifreq_circuit
+fem_hifreq_circuit
+filter3D
+filter3D
+finance256
+finance256
+Flan_1565
+Flan_1565
+flickr
+flickr
+foldoc
+foldoc
+Freescale1
+Freescale1
+fullb
+fullb
+fxm4_6
+fxm4_6
+G2_circuit
+G2_circuit
+G3_circuit
+G3_circuit
+Ga10As10H30
+Ga10As10H30
+Ga19As19H42
+Ga19As19H42
+Ga3As3H12
+Ga3As3H12
+Ga41As41H72
+Ga41As41H72
+GaAsH6
+GaAsH6
+gas_sensor
+gas_sensor
+Ge87H76
+Ge87H76
+Ge99H100
+Ge99H100
+gearbox
+gearbox
+Geo_1438
+Geo_1438
+gridgena
+gridgena
+gsm_106857
+gsm_106857
+gupta1
+gupta1
+gupta2
+gupta2
+gupta3
+gupta3
+gyro
+gyro
+gyro_k
+gyro_k
+gyro_m
+gyro_m
+H2O
+H2O
+halfb
+halfb
+Hamrle3
+Hamrle3
+hangGlider_4
+hangGlider_4
+hangGlider_5
+hangGlider_5
+helm2d03
+helm2d03
+helm3d01
+helm3d01
+hi2010
+hi2010
+hollywood-2009
+hollywood-2009
+hood
+hood
+Hook_1498
+Hook_1498
+HTC_336_4438
+HTC_336_4438
+HTC_336_9129
+HTC_336_9129
+human_gene1
+human_gene1
+human_gene2
+human_gene2
+ibm_matrix_2
+ibm_matrix_2
+igbt3
+igbt3
+in-2004
+in-2004
+inlet
+inlet
+inline_1
+inline_1
+jan99jac120sc
+jan99jac120sc
+juba40k
+juba40k
+k3plates
+k3plates
+kim1
+kim1
+kkt_power
+kkt_power
+kron_g500-logn16
+kron_g500-logn16
+kron_g500-logn17
+kron_g500-logn17
+kron_g500-logn18
+kron_g500-logn18
+kron_g500-logn19
+kron_g500-logn19
+kron_g500-logn20
+kron_g500-logn20
+laminar_duct3D
+laminar_duct3D
+language
+language
+largebasis
+largebasis
+ldoor
+ldoor
+lhr34
+lhr34
+lhr34c
+lhr34c
+lhr71
+lhr71
+lhr71c
+lhr71c
+li
+li
+Long_Coup_dt0
+Long_Coup_dt0
+Long_Coup_dt6
+Long_Coup_dt6
+lowThrust_10
+lowThrust_10
+lowThrust_11
+lowThrust_11
+lowThrust_12
+lowThrust_12
+lowThrust_13
+lowThrust_13
+lowThrust_4
+lowThrust_4
+lowThrust_5
+lowThrust_5
+lowThrust_6
+lowThrust_6
+lowThrust_7
+lowThrust_7
+lowThrust_8
+lowThrust_8
+lowThrust_9
+lowThrust_9
+lp1
+lp1
+luxembourg_osm
+luxembourg_osm
+m14b
+m14b
+mario001
+mario001
+mario002
+mario002
+mark3jac040sc
+mark3jac040sc
+mark3jac060sc
+mark3jac060sc
+me2010
+me2010
+memplus
+memplus
+mip1
+mip1
+ML_Laplace
+ML_Laplace
+mouse_gene
+mouse_gene
+msc10848
+msc10848
+msc23052
+msc23052
+msdoor
+msdoor
+m_t1
+m_t1
+mult_dcop_01
+mult_dcop_01
+mult_dcop_02
+mult_dcop_02
+mult_dcop_03
+mult_dcop_03
+NACA0015
+NACA0015
+nasasrb
+nasasrb
+nd12k
+nd12k
+nd24k
+nd24k
+nd6k
+nd6k
+net100
+net100
+net125
+net125
+net150
+net150
+net4-1
+net4-1
+net50
+net50
+net75
+net75
+netherlands_osm
+netherlands_osm
+nh2010
+nh2010
+NLR
+NLR
+NotreDame_www
+NotreDame_www
+nv2010
+nv2010
+ohne2
+ohne2
+oilpan
+oilpan
+olafu
+olafu
+onetone2
+onetone2
+OPF_10000
+OPF_10000
+opt1
+opt1
+p2p-Gnutella31
+p2p-Gnutella31
+parabolic_fem
+parabolic_fem
+patents
+patents
+pattern1
+pattern1
+pcrystk02
+pcrystk02
+pcrystk03
+pcrystk03
+pct20stif
+pct20stif
+pdb1HYS
+pdb1HYS
+pds10
+pds10
+PFlow_742
+PFlow_742
+pkustk01
+pkustk01
+pkustk02
+pkustk02
+pkustk03
+pkustk03
+pkustk04
+pkustk04
+pkustk05
+pkustk05
+pkustk06
+pkustk06
+pkustk07
+pkustk07
+pkustk08
+pkustk08
+pkustk09
+pkustk09
+pkustk10
+pkustk10
+pkustk11
+pkustk11
+pkustk12
+pkustk12
+pkustk13
+pkustk13
+pkustk14
+pkustk14
+pli
+pli
+PR02R
+PR02R
+Pres_Poisson
+Pres_Poisson
+pwtk
+pwtk
+qa8fk
+qa8fk
+qa8fm
+qa8fm
+raefsky3
+raefsky3
+raefsky4
+raefsky4
+rajat15
+rajat15
+rajat22
+rajat22
+rajat26
+rajat26
+ramage02
+ramage02
+Reuters911
+Reuters911
+rgg_n_2_15_s0
+rgg_n_2_15_s0
+rgg_n_2_22_s0
+rgg_n_2_22_s0
+ri2010
+ri2010
+rim
+rim
+RM07R
+RM07R
+rma10
+rma10
+roadNet-CA
+roadNet-CA
+roadNet-PA
+roadNet-PA
+roadNet-TX
+roadNet-TX
+s3dkq4m2
+s3dkq4m2
+s3dkt3m2
+s3dkt3m2
+s4dkt3m2
+s4dkt3m2
+Serena
+Serena
+shermanACb
+shermanACb
+ship_001
+ship_001
+ship_003
+ship_003
+shipsec1
+shipsec1
+shipsec5
+shipsec5
+shipsec8
+shipsec8
+Si10H16
+Si10H16
+Si34H36
+Si34H36
+Si41Ge41H72
+Si41Ge41H72
+Si5H12
+Si5H12
+Si87H76
+Si87H76
+sinc15
+sinc15
+SiO
+SiO
+SiO2
+SiO2
+skirt
+skirt
+smallworld
+smallworld
+sme3Dc
+sme3Dc
+smt
+smt
+soc-sign-Slashdot090221
+soc-sign-Slashdot090221
+sparsine
+sparsine
+srb1
+srb1
+Stanford
+Stanford
+std1_Jac2
+std1_Jac2
+std1_Jac3
+std1_Jac3
+stokes128
+stokes128
+stokes64
+stokes64
+struct3
+struct3
+t2dah
+t2dah
+t2dah_a
+t2dah_a
+t2dah_e
+t2dah_e
+t3dh
+t3dh
+t3dh_a
+t3dh_a
+t3dh_e
+t3dh_e
+t3dl
+t3dl
+t3dl_a
+t3dl_a
+tandem_vtx
+tandem_vtx
+ted_A
+ted_A
+ted_AB
+ted_AB
+ted_AB_unscaled
+ted_AB_unscaled
+ted_A_unscaled
+ted_A_unscaled
+ted_B_unscaled
+ted_B_unscaled
+thread
+thread
+tmt_sym
+tmt_sym
+torso1
+torso1
+transient
+transient
+trdheim
+trdheim
+Trefethen_20000
+Trefethen_20000
+Trefethen_20000b
+Trefethen_20000b
+troll
+troll
+TSOPF_FS_b162_c1
+TSOPF_FS_b162_c1
+TSOPF_FS_b162_c3
+TSOPF_FS_b162_c3
+TSOPF_FS_b162_c4
+TSOPF_FS_b162_c4
+TSOPF_FS_b300
+TSOPF_FS_b300
+TSOPF_FS_b300_c1
+TSOPF_FS_b300_c1
+TSOPF_FS_b300_c2
+TSOPF_FS_b300_c2
+TSOPF_FS_b300_c3
+TSOPF_FS_b300_c3
+TSOPF_FS_b39_c19
+TSOPF_FS_b39_c19
+TSOPF_FS_b39_c30
+TSOPF_FS_b39_c30
+TSOPF_FS_b39_c7
+TSOPF_FS_b39_c7
+TSOPF_FS_b9_c6
+TSOPF_FS_b9_c6
+TSOPF_RS_b162_c3
+TSOPF_RS_b162_c3
+	 GPU Preprocess time: 0.00241255 seconds
+TC_Blocks:	11378
+Exp_Edges:	1456384
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00248423 seconds
+TC_Blocks:	15102
+Exp_Edges:	1933056
+dynamic_shared_size: 884
+	 GPU Preprocess time: 0.0466146 seconds
+TC_Blocks:	63637
+Exp_Edges:	8145536
+dynamic_shared_size: 1348
+	 GPU Preprocess time: 0.069301 seconds
+TC_Blocks:	143809
+Exp_Edges:	18407552
+dynamic_shared_size: 1348
+	 GPU Preprocess time: 0.0699093 seconds
+TC_Blocks:	143809
+Exp_Edges:	18407552
+dynamic_shared_size: 316
+	 GPU Preprocess time: 0.0264014 seconds
+TC_Blocks:	17641
+Exp_Edges:	2258048
+dynamic_shared_size: 380
+	 GPU Preprocess time: 0.0292898 seconds
+TC_Blocks:	34876
+Exp_Edges:	4464128
+dynamic_shared_size: 372
+	 GPU Preprocess time: 0.0292794 seconds
+TC_Blocks:	52104
+Exp_Edges:	6669312
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0214557 seconds
+TC_Blocks:	19746
+Exp_Edges:	2527488
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0213572 seconds
+TC_Blocks:	31152
+Exp_Edges:	3987456
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0220845 seconds
+TC_Blocks:	7302
+Exp_Edges:	934656
+dynamic_shared_size: 716
+	 GPU Preprocess time: 0.0411181 seconds
+TC_Blocks:	42474
+Exp_Edges:	5436672
+dynamic_shared_size: 884
+	 GPU Preprocess time: 0.013181 seconds
+TC_Blocks:	83928
+Exp_Edges:	10742784
+dynamic_shared_size: 508
+	 GPU Preprocess time: 0.00403836 seconds
+TC_Blocks:	26653
+Exp_Edges:	3411584
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00167087 seconds
+TC_Blocks:	9352
+Exp_Edges:	1197056
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00175797 seconds
+TC_Blocks:	9766
+Exp_Edges:	1250048
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.00181593 seconds
+TC_Blocks:	65835
+Exp_Edges:	8426880
+dynamic_shared_size: 36
+	 GPU Preprocess time: 0.0011613 seconds
+TC_Blocks:	23573
+Exp_Edges:	3017344
+dynamic_shared_size: 36
+	 GPU Preprocess time: 0.00106272 seconds
+TC_Blocks:	23089
+Exp_Edges:	2955392
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00286656 seconds
+TC_Blocks:	27953
+Exp_Edges:	3577984
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.0066353 seconds
+TC_Blocks:	868038
+Exp_Edges:	111108864
+dynamic_shared_size: 316
+	 GPU Preprocess time: 0.00206718 seconds
+TC_Blocks:	11268
+Exp_Edges:	1442304
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00227706 seconds
+TC_Blocks:	29489
+Exp_Edges:	3774592
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.000887384 seconds
+TC_Blocks:	13589
+Exp_Edges:	1739392
+dynamic_shared_size: 1492
+	 GPU Preprocess time: 0.00391736 seconds
+TC_Blocks:	250889
+Exp_Edges:	32113792
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00122743 seconds
+TC_Blocks:	5989
+Exp_Edges:	766592
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.00159616 seconds
+TC_Blocks:	26909
+Exp_Edges:	3444352
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.000981779 seconds
+TC_Blocks:	2477
+Exp_Edges:	317056
+dynamic_shared_size: 2228
+	 GPU Preprocess time: 0.00355828 seconds
+TC_Blocks:	20832
+Exp_Edges:	2666496
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.00160827 seconds
+TC_Blocks:	44757
+Exp_Edges:	5728896
+dynamic_shared_size: 964
+	 GPU Preprocess time: 0.0022895 seconds
+TC_Blocks:	37722
+Exp_Edges:	4828416
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00126028 seconds
+TC_Blocks:	14226
+Exp_Edges:	1820928
+dynamic_shared_size: 2236
+	 GPU Preprocess time: 0.00426437 seconds
+TC_Blocks:	146489
+Exp_Edges:	18750592
+dynamic_shared_size: 1068
+	 GPU Preprocess time: 0.0019932 seconds
+TC_Blocks:	5820
+Exp_Edges:	744960
+dynamic_shared_size: 1596
+	 GPU Preprocess time: 0.00312232 seconds
+TC_Blocks:	15335
+Exp_Edges:	1962880
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.0015195 seconds
+TC_Blocks:	12331
+Exp_Edges:	1578368
+dynamic_shared_size: 316
+	 GPU Preprocess time: 0.00192758 seconds
+TC_Blocks:	31589
+Exp_Edges:	4043392
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.000855247 seconds
+TC_Blocks:	9639
+Exp_Edges:	1233792
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00112071 seconds
+TC_Blocks:	12000
+Exp_Edges:	1536000
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00128056 seconds
+TC_Blocks:	14392
+Exp_Edges:	1842176
+dynamic_shared_size: 516
+	 GPU Preprocess time: 0.00451492 seconds
+TC_Blocks:	661165
+Exp_Edges:	84629120
+dynamic_shared_size: 5404
+	 GPU Preprocess time: 0.00866552 seconds
+TC_Blocks:	89800
+Exp_Edges:	11494400
+dynamic_shared_size: 6388
+	 GPU Preprocess time: 0.0200195 seconds
+TC_Blocks:	2276393
+Exp_Edges:	291378304
+dynamic_shared_size: 8652
+	 GPU Preprocess time: 0.0347892 seconds
+TC_Blocks:	4418423
+Exp_Edges:	565558144
+dynamic_shared_size: 10932
+	 GPU Preprocess time: 0.0361713 seconds
+TC_Blocks:	4677316
+Exp_Edges:	598696448
+dynamic_shared_size: 7588
+	 GPU Preprocess time: 0.0903003 seconds
+TC_Blocks:	5370254
+Exp_Edges:	687392512
+dynamic_shared_size: 101324
+	 GPU Preprocess time: 0.16982 seconds
+TC_Blocks:	626546
+Exp_Edges:	80197888
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00213622 seconds
+TC_Blocks:	17665
+Exp_Edges:	2261120
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00098807 seconds
+TC_Blocks:	9409
+Exp_Edges:	1204352
+dynamic_shared_size: 204
+	 GPU Preprocess time: 0.00116032 seconds
+TC_Blocks:	26767
+Exp_Edges:	3426176
+dynamic_shared_size: 428
+	 GPU Preprocess time: 0.00622103 seconds
+TC_Blocks:	99748
+Exp_Edges:	12767744
+dynamic_shared_size: 1332
+	 GPU Preprocess time: 0.0129888 seconds
+TC_Blocks:	46039
+Exp_Edges:	5892992
+dynamic_shared_size: 18948
+	 GPU Preprocess time: 0.118161 seconds
+TC_Blocks:	15820655
+Exp_Edges:	2025043840
+dynamic_shared_size: 78860
+	 GPU Preprocess time: 0.659323 seconds
+TC_Blocks:	6947860
+Exp_Edges:	889326080
+dynamic_shared_size: 9540
+	 GPU Preprocess time: 0.014649 seconds
+TC_Blocks:	74003
+Exp_Edges:	9472384
+dynamic_shared_size: 2092
+	 GPU Preprocess time: 0.0045792 seconds
+TC_Blocks:	201600
+Exp_Edges:	25804800
+dynamic_shared_size: 508
+	 GPU Preprocess time: 0.00197621 seconds
+TC_Blocks:	76714
+Exp_Edges:	9819392
+dynamic_shared_size: 26428
+	 GPU Preprocess time: 0.0930339 seconds
+TC_Blocks:	832376
+Exp_Edges:	106544128
+dynamic_shared_size: 4260
+	 GPU Preprocess time: 0.0108421 seconds
+TC_Blocks:	455410
+Exp_Edges:	58292480
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00237516 seconds
+TC_Blocks:	130006
+Exp_Edges:	16640768
+dynamic_shared_size: 8004
+	 GPU Preprocess time: 0.0213992 seconds
+TC_Blocks:	1748638
+Exp_Edges:	223825664
+dynamic_shared_size: 636
+	 GPU Preprocess time: 0.00315747 seconds
+TC_Blocks:	238338
+Exp_Edges:	30507264
+dynamic_shared_size: 1900
+TSOPF_RS_b162_c4
+TSOPF_RS_b162_c4
+TSOPF_RS_b2052_c1
+TSOPF_RS_b2052_c1
+TSOPF_RS_b2383
+TSOPF_RS_b2383
+TSOPF_RS_b2383_c1
+TSOPF_RS_b2383_c1
+TSOPF_RS_b300_c1
+TSOPF_RS_b300_c1
+TSOPF_RS_b300_c2
+TSOPF_RS_b300_c2
+TSOPF_RS_b300_c3
+TSOPF_RS_b300_c3
+TSOPF_RS_b39_c19
+TSOPF_RS_b39_c19
+TSOPF_RS_b39_c30
+TSOPF_RS_b39_c30
+TSOPF_RS_b39_c7
+TSOPF_RS_b39_c7
+TSOPF_RS_b678_c1
+TSOPF_RS_b678_c1
+TSOPF_RS_b678_c2
+TSOPF_RS_b678_c2
+tsyl201
+tsyl201
+tube1
+tube1
+tube2
+tube2
+turon_m
+turon_m
+usroads
+usroads
+usroads-48
+usroads-48
+vanbody
+vanbody
+venturiLevel3
+venturiLevel3
+vibrobox
+vibrobox
+viscorocks
+viscorocks
+vsp_barth5_1Ksep_50in_5Kout
+vsp_barth5_1Ksep_50in_5Kout
+vsp_bcsstk30_500sep_10in_1Kout
+vsp_bcsstk30_500sep_10in_1Kout
+vsp_befref_fxm_2_4_air02
+vsp_befref_fxm_2_4_air02
+vsp_bump2_e18_aa01_model1_crew1
+vsp_bump2_e18_aa01_model1_crew1
+vsp_c-30_data_data
+vsp_c-30_data_data
+vsp_c-60_data_cti_cs4
+vsp_c-60_data_cti_cs4
+vsp_finan512_scagr7-2c_rlfddd
+vsp_finan512_scagr7-2c_rlfddd
+vsp_mod2_pgp2_slptsk
+vsp_mod2_pgp2_slptsk
+vsp_model1_crew1_cr42_south31
+vsp_model1_crew1_cr42_south31
+vsp_msc10848_300sep_100in_1Kout
+vsp_msc10848_300sep_100in_1Kout
+vsp_p0291_seymourl_iiasa
+vsp_p0291_seymourl_iiasa
+vsp_sctap1-2b_and_seymourl
+vsp_sctap1-2b_and_seymourl
+vsp_south31_slptsk
+vsp_south31_slptsk
+vsp_vibrobox_scagr7-2c_rlfddd
+vsp_vibrobox_scagr7-2c_rlfddd
+vt2010
+vt2010
+wathen100
+wathen100
+wathen120
+wathen120
+web-Google
+web-Google
+web-NotreDame
+web-NotreDame
+wikipedia-20051105
+wikipedia-20051105
+wikipedia-20060925
+wikipedia-20060925
+wikipedia-20061104
+wikipedia-20061104
+wikipedia-20070206
+wikipedia-20070206
+wiki-Talk
+wiki-Talk
+windscreen
+windscreen
+wing_nodal
+wing_nodal
+wy2010
+wy2010
+x104
+x104
+Zd_Jac2
+Zd_Jac2
+ogb
+ogb
+reddit
+reddit
+GitHub
+GitHub
+artist
+artist
+ell
+ell
+amazon
+amazon
+amazon0505
+amazon0505
+dd
+dd
+yelp
+yelp
+comamazon
+comamazon
+IGB_small
+IGB_small
+	 GPU Preprocess time: 0.0109992 seconds
+TC_Blocks:	1660497
+Exp_Edges:	212543616
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00318882 seconds
+TC_Blocks:	119691
+Exp_Edges:	15320448
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.00184189 seconds
+TC_Blocks:	15491
+Exp_Edges:	1982848
+dynamic_shared_size: 2044
+	 GPU Preprocess time: 0.00403378 seconds
+TC_Blocks:	32731
+Exp_Edges:	4189568
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00848684 seconds
+TC_Blocks:	1213299
+Exp_Edges:	155302272
+dynamic_shared_size: 6916
+	 GPU Preprocess time: 0.0118781 seconds
+TC_Blocks:	23602
+Exp_Edges:	3021056
+dynamic_shared_size: 9564
+	 GPU Preprocess time: 0.0146158 seconds
+TC_Blocks:	41368
+Exp_Edges:	5295104
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.0419662 seconds
+TC_Blocks:	1078015
+Exp_Edges:	137985920
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.0288426 seconds
+TC_Blocks:	459079
+Exp_Edges:	58762112
+dynamic_shared_size: 2364
+	 GPU Preprocess time: 0.0412757 seconds
+TC_Blocks:	38459
+Exp_Edges:	4922752
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.0217779 seconds
+TC_Blocks:	90901
+Exp_Edges:	11635328
+dynamic_shared_size: 10052
+	 GPU Preprocess time: 0.0500501 seconds
+TC_Blocks:	23753
+Exp_Edges:	3040384
+dynamic_shared_size: 10052
+	 GPU Preprocess time: 0.050014 seconds
+TC_Blocks:	23150
+Exp_Edges:	2963200
+dynamic_shared_size: 5060
+	 GPU Preprocess time: 0.0331325 seconds
+TC_Blocks:	17189
+Exp_Edges:	2200192
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.0352859 seconds
+TC_Blocks:	1499459
+Exp_Edges:	191930752
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0266866 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0265392 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0263185 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0264447 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0256051 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0258786 seconds
+TC_Blocks:	201105
+Exp_Edges:	25741440
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0261415 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0495631 seconds
+TC_Blocks:	602672
+Exp_Edges:	77142016
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0259418 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0268703 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0270236 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0263749 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.0264518 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00638497 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00642602 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00640903 seconds
+TC_Blocks:	201642
+Exp_Edges:	25810176
+dynamic_shared_size: 436
+	 GPU Preprocess time: 0.00162079 seconds
+TC_Blocks:	13666
+Exp_Edges:	1749248
+dynamic_shared_size: 4260
+	 GPU Preprocess time: 0.00895088 seconds
+TC_Blocks:	455410
+Exp_Edges:	58292480
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00166118 seconds
+TC_Blocks:	52464
+Exp_Edges:	6715392
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00848646 seconds
+TC_Blocks:	1305731
+Exp_Edges:	167133568
+dynamic_shared_size: 3028
+	 GPU Preprocess time: 0.00500575 seconds
+TC_Blocks:	12777
+Exp_Edges:	1635456
+dynamic_shared_size: 4476
+	 GPU Preprocess time: 0.011409 seconds
+TC_Blocks:	741424
+Exp_Edges:	94902272
+dynamic_shared_size: 244
+	 GPU Preprocess time: 0.00181468 seconds
+TC_Blocks:	8756
+Exp_Edges:	1120768
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.003402 seconds
+TC_Blocks:	374585
+Exp_Edges:	47946880
+dynamic_shared_size: 9380
+	 GPU Preprocess time: 0.0156162 seconds
+TC_Blocks:	286638
+Exp_Edges:	36689664
+dynamic_shared_size: 12556
+	 GPU Preprocess time: 0.020351 seconds
+TC_Blocks:	293919
+Exp_Edges:	37621632
+dynamic_shared_size: 12556
+	 GPU Preprocess time: 0.0204167 seconds
+TC_Blocks:	293919
+Exp_Edges:	37621632
+dynamic_shared_size: 12556
+	 GPU Preprocess time: 0.0202254 seconds
+TC_Blocks:	293919
+Exp_Edges:	37621632
+dynamic_shared_size: 9380
+	 GPU Preprocess time: 0.0156415 seconds
+TC_Blocks:	286638
+Exp_Edges:	36689664
+dynamic_shared_size: 9380
+	 GPU Preprocess time: 0.0155735 seconds
+TC_Blocks:	286638
+Exp_Edges:	36689664
+dynamic_shared_size: 9380
+	 GPU Preprocess time: 0.0158337 seconds
+TC_Blocks:	286638
+Exp_Edges:	36689664
+dynamic_shared_size: 12556
+	 GPU Preprocess time: 0.0202144 seconds
+TC_Blocks:	293919
+Exp_Edges:	37621632
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00148584 seconds
+TC_Blocks:	11690
+Exp_Edges:	1496320
+dynamic_shared_size: 204
+	 GPU Preprocess time: 0.00310347 seconds
+TC_Blocks:	42199
+Exp_Edges:	5401472
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00177298 seconds
+TC_Blocks:	5602
+Exp_Edges:	717056
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00103661 seconds
+TC_Blocks:	4989
+Exp_Edges:	638592
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.00109205 seconds
+TC_Blocks:	6456
+Exp_Edges:	826368
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00158809 seconds
+TC_Blocks:	7672
+Exp_Edges:	982016
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00333775 seconds
+TC_Blocks:	21107
+Exp_Edges:	2701696
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00210939 seconds
+TC_Blocks:	19334
+Exp_Edges:	2474752
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00287838 seconds
+TC_Blocks:	22794
+Exp_Edges:	2917632
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.00252705 seconds
+TC_Blocks:	14998
+Exp_Edges:	1919744
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00223544 seconds
+TC_Blocks:	11527
+Exp_Edges:	1475456
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00221549 seconds
+TC_Blocks:	11921
+Exp_Edges:	1525888
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00211912 seconds
+TC_Blocks:	25491
+Exp_Edges:	3262848
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00137389 seconds
+TC_Blocks:	6012
+Exp_Edges:	769536
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.00225102 seconds
+TC_Blocks:	219715
+Exp_Edges:	28123520
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.005377 seconds
+TC_Blocks:	117369
+Exp_Edges:	15023232
+dynamic_shared_size: 40020
+	 GPU Preprocess time: 0.0612006 seconds
+TC_Blocks:	20000
+Exp_Edges:	2560000
+dynamic_shared_size: 10020
+	 GPU Preprocess time: 0.0142145 seconds
+TC_Blocks:	6873
+Exp_Edges:	879744
+dynamic_shared_size: 10020
+	 GPU Preprocess time: 0.0140995 seconds
+TC_Blocks:	6874
+Exp_Edges:	879872
+dynamic_shared_size: 524
+	 GPU Preprocess time: 0.00602292 seconds
+TC_Blocks:	129267
+Exp_Edges:	16546176
+dynamic_shared_size: 772
+	 GPU Preprocess time: 0.00728229 seconds
+TC_Blocks:	79993
+Exp_Edges:	10239104
+dynamic_shared_size: 364
+	 GPU Preprocess time: 0.00566064 seconds
+TC_Blocks:	128143
+Exp_Edges:	16402304
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.0645182 seconds
+TC_Blocks:	853436
+Exp_Edges:	109239808
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.0239627 seconds
+TC_Blocks:	88410
+Exp_Edges:	11316480
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.0521647 seconds
+TC_Blocks:	700673
+Exp_Edges:	89686144
+dynamic_shared_size: 93268
+	 GPU Preprocess time: 0.610609 seconds
+TC_Blocks:	34972
+Exp_Edges:	4476416
+dynamic_shared_size: 26780
+	 GPU Preprocess time: 0.0559055 seconds
+TC_Blocks:	97713
+Exp_Edges:	12507264
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.00162759 seconds
+TC_Blocks:	26500
+Exp_Edges:	3392000
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.000869909 seconds
+TC_Blocks:	6039
+Exp_Edges:	772992
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.000849092 seconds
+TC_Blocks:	9229
+Exp_Edges:	1181312
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.0399213 seconds
+TC_Blocks:	1943777
+Exp_Edges:	248803456
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.00407423 seconds
+TC_Blocks:	6471
+Exp_Edges:	828288
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00832428 seconds
+TC_Blocks:	210652
+Exp_Edges:	26963456
+dynamic_shared_size: 828
+	 GPU Preprocess time: 0.00186192 seconds
+TC_Blocks:	3351
+Exp_Edges:	428928
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.00126017 seconds
+TC_Blocks:	3260
+Exp_Edges:	417280
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00106861 seconds
+TC_Blocks:	3717
+Exp_Edges:	475776
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.000984434 seconds
+TC_Blocks:	4353
+Exp_Edges:	557184
+dynamic_shared_size: 676
+	 GPU Preprocess time: 0.00161484 seconds
+TC_Blocks:	9417
+Exp_Edges:	1205376
+dynamic_shared_size: 964
+	 GPU Preprocess time: 0.0017886 seconds
+TC_Blocks:	6488
+Exp_Edges:	830464
+dynamic_shared_size: 1564
+	 GPU Preprocess time: 0.0026062 seconds
+TC_Blocks:	7149
+Exp_Edges:	915072
+dynamic_shared_size: 1556
+	 GPU Preprocess time: 0.00248908 seconds
+TC_Blocks:	7508
+Exp_Edges:	961024
+dynamic_shared_size: 1604
+	 GPU Preprocess time: 0.00263381 seconds
+TC_Blocks:	8142
+Exp_Edges:	1042176
+dynamic_shared_size: 1748
+	 GPU Preprocess time: 0.00275249 seconds
+TC_Blocks:	7995
+Exp_Edges:	1023360
+dynamic_shared_size: 412
+	 GPU Preprocess time: 0.00150886 seconds
+TC_Blocks:	9367
+Exp_Edges:	1198976
+dynamic_shared_size: 1748
+	 GPU Preprocess time: 0.00304535 seconds
+TC_Blocks:	10499
+Exp_Edges:	1343872
+dynamic_shared_size: 2948
+	 GPU Preprocess time: 0.00492231 seconds
+TC_Blocks:	15121
+Exp_Edges:	1935488
+dynamic_shared_size: 1460
+	 GPU Preprocess time: 0.00272402 seconds
+TC_Blocks:	11984
+Exp_Edges:	1533952
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00123251 seconds
+TC_Blocks:	10822
+Exp_Edges:	1385216
+dynamic_shared_size: 5148
+	 GPU Preprocess time: 0.00790214 seconds
+TC_Blocks:	24993
+Exp_Edges:	3199104
+dynamic_shared_size: 3100
+	 GPU Preprocess time: 0.00489697 seconds
+TC_Blocks:	17846
+Exp_Edges:	2284288
+dynamic_shared_size: 2228
+	 GPU Preprocess time: 0.00362614 seconds
+TC_Blocks:	13535
+Exp_Edges:	1732480
+dynamic_shared_size: 2844
+	 GPU Preprocess time: 0.00427463 seconds
+TC_Blocks:	14489
+Exp_Edges:	1854592
+dynamic_shared_size: 5132
+	 GPU Preprocess time: 0.00773531 seconds
+TC_Blocks:	22167
+Exp_Edges:	2837376
+dynamic_shared_size: 5132
+	 GPU Preprocess time: 0.00767588 seconds
+TC_Blocks:	22167
+Exp_Edges:	2837376
+dynamic_shared_size: 3268
+	 GPU Preprocess time: 0.00497349 seconds
+TC_Blocks:	16347
+Exp_Edges:	2092416
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.00254233 seconds
+TC_Blocks:	16780
+Exp_Edges:	2147840
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.0018392 seconds
+TC_Blocks:	16780
+Exp_Edges:	2147840
+dynamic_shared_size: 3284
+	 GPU Preprocess time: 0.00500013 seconds
+TC_Blocks:	15760
+Exp_Edges:	2017280
+dynamic_shared_size: 2964
+	 GPU Preprocess time: 0.00537355 seconds
+TC_Blocks:	17417
+Exp_Edges:	2229376
+dynamic_shared_size: 2964
+	 GPU Preprocess time: 0.00497818 seconds
+TC_Blocks:	17417
+Exp_Edges:	2229376
+dynamic_shared_size: 564
+	 GPU Preprocess time: 0.00187719 seconds
+TC_Blocks:	16188
+Exp_Edges:	2072064
+dynamic_shared_size: 2804
+	 GPU Preprocess time: 0.0052106 seconds
+TC_Blocks:	24733
+Exp_Edges:	3165824
+dynamic_shared_size: 4324
+	 GPU Preprocess time: 0.00680479 seconds
+TC_Blocks:	24431
+Exp_Edges:	3127168
+dynamic_shared_size: 4396
+	 GPU Preprocess time: 0.00680659 seconds
+TC_Blocks:	25491
+Exp_Edges:	3262848
+dynamic_shared_size: 6756
+	 GPU Preprocess time: 0.0100534 seconds
+TC_Blocks:	34009
+Exp_Edges:	4353152
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00189457 seconds
+TC_Blocks:	57379
+Exp_Edges:	7344512
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00189806 seconds
+TC_Blocks:	57379
+Exp_Edges:	7344512
+dynamic_shared_size: 924
+	 GPU Preprocess time: 0.00274112 seconds
+TC_Blocks:	24126
+Exp_Edges:	3088128
+dynamic_shared_size: 428
+	 GPU Preprocess time: 0.00141231 seconds
+TC_Blocks:	12086
+Exp_Edges:	1547008
+dynamic_shared_size: 556
+	 GPU Preprocess time: 0.0189842 seconds
+TC_Blocks:	2837322
+Exp_Edges:	363177216
+dynamic_shared_size: 372
+	 GPU Preprocess time: 0.00203777 seconds
+TC_Blocks:	73429
+Exp_Edges:	9398912
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00291009 seconds
+TC_Blocks:	52583
+Exp_Edges:	6730624
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00187881 seconds
+TC_Blocks:	13850
+Exp_Edges:	1772800
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.0010011 seconds
+TC_Blocks:	3172
+Exp_Edges:	406016
+dynamic_shared_size: 19612
+	 GPU Preprocess time: 0.0303367 seconds
+TC_Blocks:	108520
+Exp_Edges:	13890560
+dynamic_shared_size: 628
+	 GPU Preprocess time: 0.00202011 seconds
+TC_Blocks:	6544
+Exp_Edges:	837632
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.000814392 seconds
+TC_Blocks:	9471
+Exp_Edges:	1212288
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00198344 seconds
+TC_Blocks:	49558
+Exp_Edges:	6343424
+dynamic_shared_size: 68132
+	 GPU Preprocess time: 0.458741 seconds
+TC_Blocks:	191129
+Exp_Edges:	24464512
+dynamic_shared_size: 7492
+	 GPU Preprocess time: 0.0111017 seconds
+TC_Blocks:	23582
+Exp_Edges:	3018496
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.0129045 seconds
+TC_Blocks:	1484861
+Exp_Edges:	190062208
+dynamic_shared_size: 1140
+	 GPU Preprocess time: 0.00326211 seconds
+TC_Blocks:	151583
+Exp_Edges:	19402624
+dynamic_shared_size: 988
+	 GPU Preprocess time: 0.0129967 seconds
+TC_Blocks:	2099493
+Exp_Edges:	268735104
+dynamic_shared_size: 3308
+	 GPU Preprocess time: 0.0054511 seconds
+TC_Blocks:	22295
+Exp_Edges:	2853760
+dynamic_shared_size: 3308
+	 GPU Preprocess time: 0.00537683 seconds
+TC_Blocks:	22295
+Exp_Edges:	2853760
+dynamic_shared_size: 2740
+	 GPU Preprocess time: 0.00858958 seconds
+TC_Blocks:	109435
+Exp_Edges:	14007680
+dynamic_shared_size: 356
+	 GPU Preprocess time: 0.00410503 seconds
+TC_Blocks:	340314
+Exp_Edges:	43560192
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.0028733 seconds
+TC_Blocks:	52926
+Exp_Edges:	6774528
+dynamic_shared_size: 148
+	 GPU Preprocess time: 0.00278606 seconds
+TC_Blocks:	77260
+Exp_Edges:	9889280
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00129729 seconds
+TC_Blocks:	10920
+Exp_Edges:	1397760
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.0013411 seconds
+TC_Blocks:	16219
+Exp_Edges:	2076032
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00261673 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.002584 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00261502 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00269359 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0027013 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00262825 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00261956 seconds
+TC_Blocks:	63104
+Exp_Edges:	8077312
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00357221 seconds
+TC_Blocks:	74573
+Exp_Edges:	9545344
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00121703 seconds
+TC_Blocks:	22562
+Exp_Edges:	2887936
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00163351 seconds
+TC_Blocks:	50718
+Exp_Edges:	6491904
+dynamic_shared_size: 892
+	 GPU Preprocess time: 0.0221452 seconds
+TC_Blocks:	313108
+Exp_Edges:	40077824
+dynamic_shared_size: 740
+	 GPU Preprocess time: 0.0123821 seconds
+TC_Blocks:	374373
+Exp_Edges:	47919744
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00107242 seconds
+TC_Blocks:	9240
+Exp_Edges:	1182720
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.0154929 seconds
+TC_Blocks:	549076
+Exp_Edges:	70281728
+dynamic_shared_size: 804
+	 GPU Preprocess time: 0.00705748 seconds
+TC_Blocks:	111657
+Exp_Edges:	14292096
+dynamic_shared_size: 884
+	 GPU Preprocess time: 0.00839032 seconds
+TC_Blocks:	149987
+Exp_Edges:	19198336
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00209257 seconds
+TC_Blocks:	8959
+Exp_Edges:	1146752
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00190477 seconds
+TC_Blocks:	11615
+Exp_Edges:	1486720
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00203418 seconds
+TC_Blocks:	20933
+Exp_Edges:	2679424
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00124468 seconds
+TC_Blocks:	10775
+Exp_Edges:	1379200
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00143205 seconds
+TC_Blocks:	19443
+Exp_Edges:	2488704
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00116361 seconds
+TC_Blocks:	20865
+Exp_Edges:	2670720
+dynamic_shared_size: 516
+	 GPU Preprocess time: 0.00404825 seconds
+TC_Blocks:	30379
+Exp_Edges:	3888512
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0396786 seconds
+TC_Blocks:	1755200
+Exp_Edges:	224665600
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0392839 seconds
+TC_Blocks:	1755200
+Exp_Edges:	224665600
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00111549 seconds
+TC_Blocks:	3325
+Exp_Edges:	425600
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00937364 seconds
+TC_Blocks:	741625
+Exp_Edges:	94928000
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.0011453 seconds
+TC_Blocks:	9045
+Exp_Edges:	1157760
+dynamic_shared_size: 748
+	 GPU Preprocess time: 0.00202408 seconds
+TC_Blocks:	6574
+Exp_Edges:	841472
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.00198672 seconds
+TC_Blocks:	122871
+Exp_Edges:	15727488
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00182534 seconds
+TC_Blocks:	24589
+Exp_Edges:	3147392
+dynamic_shared_size: 532
+	 GPU Preprocess time: 0.00253548 seconds
+TC_Blocks:	61379
+Exp_Edges:	7856512
+dynamic_shared_size: 114204
+	 GPU Preprocess time: 0.258815 seconds
+TC_Blocks:	52961
+Exp_Edges:	6779008
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00102907 seconds
+TC_Blocks:	7317
+Exp_Edges:	936576
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.00237622 seconds
+TC_Blocks:	262140
+Exp_Edges:	33553920
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.005207 seconds
+TC_Blocks:	7570
+Exp_Edges:	968960
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.0010654 seconds
+TC_Blocks:	15151
+Exp_Edges:	1939328
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.00130694 seconds
+TC_Blocks:	30366
+Exp_Edges:	3886848
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00171655 seconds
+TC_Blocks:	60682
+Exp_Edges:	7767296
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00215593 seconds
+TC_Blocks:	121537
+Exp_Edges:	15556736
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00314157 seconds
+TC_Blocks:	242879
+Exp_Edges:	31088512
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00503189 seconds
+TC_Blocks:	486400
+Exp_Edges:	62259200
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00903223 seconds
+TC_Blocks:	971343
+Exp_Edges:	124331904
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00177253 seconds
+TC_Blocks:	38999
+Exp_Edges:	4991872
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00112867 seconds
+TC_Blocks:	10822
+Exp_Edges:	1385216
+dynamic_shared_size: 564
+	 GPU Preprocess time: 0.0340111 seconds
+TC_Blocks:	618202
+Exp_Edges:	79129856
+dynamic_shared_size: 380
+	 GPU Preprocess time: 0.0509347 seconds
+TC_Blocks:	1214424
+Exp_Edges:	155446272
+dynamic_shared_size: 940
+	 GPU Preprocess time: 0.0436081 seconds
+TC_Blocks:	601593
+Exp_Edges:	77003904
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.0218482 seconds
+TC_Blocks:	7940
+Exp_Edges:	1016320
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.0229609 seconds
+TC_Blocks:	65849
+Exp_Edges:	8428672
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.0222712 seconds
+TC_Blocks:	19863
+Exp_Edges:	2542464
+dynamic_shared_size: 1356
+	 GPU Preprocess time: 0.0233637 seconds
+TC_Blocks:	38073
+Exp_Edges:	4873344
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.0237996 seconds
+TC_Blocks:	312374
+Exp_Edges:	39983872
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.0224661 seconds
+TC_Blocks:	312125
+Exp_Edges:	39952000
+dynamic_shared_size: 3092
+	 GPU Preprocess time: 0.0288579 seconds
+TC_Blocks:	33175
+Exp_Edges:	4246400
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.043148 seconds
+TC_Blocks:	727260
+Exp_Edges:	93089280
+dynamic_shared_size: 604
+	 GPU Preprocess time: 0.0239577 seconds
+TC_Blocks:	105029
+Exp_Edges:	13443712
+dynamic_shared_size: 2268
+	 GPU Preprocess time: 0.0283616 seconds
+TC_Blocks:	24631
+Exp_Edges:	3152768
+dynamic_shared_size: 6996
+	 GPU Preprocess time: 0.0596691 seconds
+TC_Blocks:	707219
+Exp_Edges:	90524032
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.0239678 seconds
+TC_Blocks:	25288
+Exp_Edges:	3236864
+dynamic_shared_size: 148
+	 GPU Preprocess time: 0.0220903 seconds
+TC_Blocks:	9986
+Exp_Edges:	1278208
+dynamic_shared_size: 740
+	 GPU Preprocess time: 0.0414486 seconds
+TC_Blocks:	405941
+Exp_Edges:	51960448
+dynamic_shared_size: 476
+	 GPU Preprocess time: 0.0232211 seconds
+TC_Blocks:	82396
+Exp_Edges:	10546688
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.0348996 seconds
+TC_Blocks:	464519
+Exp_Edges:	59458432
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.0241714 seconds
+TC_Blocks:	113265
+Exp_Edges:	14497920
+dynamic_shared_size: 676
+	 GPU Preprocess time: 0.0438774 seconds
+TC_Blocks:	838962
+Exp_Edges:	107387136
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.0221669 seconds
+TC_Blocks:	99642
+Exp_Edges:	12754176
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.0218823 seconds
+TC_Blocks:	15015
+Exp_Edges:	1921920
+dynamic_shared_size: 244
+	 GPU Preprocess time: 0.0936432 seconds
+TC_Blocks:	1437897
+Exp_Edges:	184050816
+dynamic_shared_size: 11188
+	 GPU Preprocess time: 0.062548 seconds
+TC_Blocks:	1091063
+Exp_Edges:	139656064
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.0222544 seconds
+TC_Blocks:	8415
+Exp_Edges:	1077120
+dynamic_shared_size: 436
+	 GPU Preprocess time: 0.0417932 seconds
+TC_Blocks:	1655115
+Exp_Edges:	211854720
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.0253073 seconds
+TC_Blocks:	115591
+Exp_Edges:	14795648
+dynamic_shared_size: 356
+	 GPU Preprocess time: 0.0221093 seconds
+TC_Blocks:	11413
+Exp_Edges:	1460864
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.0217297 seconds
+TC_Blocks:	45026
+Exp_Edges:	5763328
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.0231906 seconds
+TC_Blocks:	474683
+Exp_Edges:	60759424
+dynamic_shared_size: 908
+	 GPU Preprocess time: 0.0292915 seconds
+TC_Blocks:	197003
+Exp_Edges:	25216384
+dynamic_shared_size: 956
+	 GPU Preprocess time: 0.0288973 seconds
+TC_Blocks:	253086
+Exp_Edges:	32395008
+dynamic_shared_size: 1436
+	 GPU Preprocess time: 0.0422478 seconds
+TC_Blocks:	131173
+Exp_Edges:	16790144
+dynamic_shared_size: 972
+	 GPU Preprocess time: 0.0336215 seconds
+TC_Blocks:	527130
+Exp_Edges:	67472640
+dynamic_shared_size: 1300
+	 GPU Preprocess time: 0.0412273 seconds
+TC_Blocks:	103067
+Exp_Edges:	13192576
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.021655 seconds
+TC_Blocks:	50775
+Exp_Edges:	6499200
+dynamic_shared_size: 836
+	 GPU Preprocess time: 0.0287333 seconds
+TC_Blocks:	222389
+Exp_Edges:	28465792
+dynamic_shared_size: 836
+	 GPU Preprocess time: 0.0284945 seconds
+TC_Blocks:	229691
+Exp_Edges:	29400448
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.024472 seconds
+TC_Blocks:	116765
+Exp_Edges:	14945920
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.0580721 seconds
+TC_Blocks:	1073155
+Exp_Edges:	137363840
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.0215507 seconds
+TC_Blocks:	15286
+Exp_Edges:	1956608
+dynamic_shared_size: 1644
+	 GPU Preprocess time: 0.0343449 seconds
+TC_Blocks:	1030610
+Exp_Edges:	131918080
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.0219337 seconds
+TC_Blocks:	36207
+Exp_Edges:	4634496
+dynamic_shared_size: 244
+	 GPU Preprocess time: 0.023681 seconds
+TC_Blocks:	71835
+Exp_Edges:	9194880
+dynamic_shared_size: 15188
+	 GPU Preprocess time: 0.26755 seconds
+TC_Blocks:	60430
+Exp_Edges:	7735040
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.0020261 seconds
+TC_Blocks:	13814
+Exp_Edges:	1768192
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00179284 seconds
+TC_Blocks:	13814
+Exp_Edges:	1768192
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.00138331 seconds
+TC_Blocks:	12785
+Exp_Edges:	1636480
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00508853 seconds
+TC_Blocks:	96379
+Exp_Edges:	12336512
+dynamic_shared_size: 324
+	 GPU Preprocess time: 0.00609945 seconds
+TC_Blocks:	124508
+Exp_Edges:	15937024
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00425326 seconds
+TC_Blocks:	428203
+Exp_Edges:	54809984
+dynamic_shared_size: 6924
+	 GPU Preprocess time: 0.00976587 seconds
+TC_Blocks:	6274
+Exp_Edges:	803072
+dynamic_shared_size: 7124
+	 GPU Preprocess time: 0.00978849 seconds
+TC_Blocks:	6454
+Exp_Edges:	826112
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00200041 seconds
+TC_Blocks:	116682
+Exp_Edges:	14935296
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00112236 seconds
+TC_Blocks:	17758
+Exp_Edges:	2273024
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.000785125 seconds
+TC_Blocks:	7686
+Exp_Edges:	983808
+dynamic_shared_size: 21452
+	 GPU Preprocess time: 0.10468 seconds
+TC_Blocks:	3360591
+Exp_Edges:	430155648
+dynamic_shared_size: 148
+	 GPU Preprocess time: 0.00480685 seconds
+TC_Blocks:	119524
+Exp_Edges:	15299072
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.0191288 seconds
+TC_Blocks:	961184
+Exp_Edges:	123031552
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.00188755 seconds
+TC_Blocks:	61986
+Exp_Edges:	7934208
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.0017727 seconds
+TC_Blocks:	61718
+Exp_Edges:	7899904
+dynamic_shared_size: 10644
+	 GPU Preprocess time: 0.0812949 seconds
+TC_Blocks:	607569
+Exp_Edges:	77768832
+dynamic_shared_size: 8620
+	 GPU Preprocess time: 0.0746804 seconds
+TC_Blocks:	363605
+Exp_Edges:	46541440
+dynamic_shared_size: 9564
+	 GPU Preprocess time: 0.0145227 seconds
+TC_Blocks:	41368
+Exp_Edges:	5295104
+dynamic_shared_size: 324
+	 GPU Preprocess time: 0.00143175 seconds
+TC_Blocks:	16713
+Exp_Edges:	2139264
+dynamic_shared_size: 7780
+	 GPU Preprocess time: 0.0305286 seconds
+TC_Blocks:	460431
+Exp_Edges:	58935168
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00174024 seconds
+TC_Blocks:	8781
+Exp_Edges:	1123968
+dynamic_shared_size: 4820
+	 GPU Preprocess time: 0.0280438 seconds
+TC_Blocks:	494741
+Exp_Edges:	63326848
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00137419 seconds
+TC_Blocks:	19454
+Exp_Edges:	2490112
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00112946 seconds
+TC_Blocks:	11555
+Exp_Edges:	1479040
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.0016834 seconds
+TC_Blocks:	8635
+Exp_Edges:	1105280
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00166221 seconds
+TC_Blocks:	30775
+Exp_Edges:	3939200
+dynamic_shared_size: 212
+	 GPU Preprocess time: 0.00615905 seconds
+TC_Blocks:	1029670
+Exp_Edges:	131797760
+dynamic_shared_size: 10052
+	 GPU Preprocess time: 0.0164717 seconds
+TC_Blocks:	272616
+Exp_Edges:	34894848
+dynamic_shared_size: 28868
+	 GPU Preprocess time: 0.0486086 seconds
+TC_Blocks:	587591
+Exp_Edges:	75211648
+dynamic_shared_size: 29452
+	 GPU Preprocess time: 0.0518534 seconds
+TC_Blocks:	1246886
+Exp_Edges:	159601408
+dynamic_shared_size: 65852
+	 GPU Preprocess time: 0.131717 seconds
+TC_Blocks:	2612717
+Exp_Edges:	334427776
+dynamic_shared_size: 74844
+	 GPU Preprocess time: 0.177068 seconds
+TC_Blocks:	5434025
+Exp_Edges:	695555200
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00431234 seconds
+TC_Blocks:	102591
+Exp_Edges:	13131648
+dynamic_shared_size: 11580
+	 GPU Preprocess time: 0.0172441 seconds
+TC_Blocks:	128696
+Exp_Edges:	16473088
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00459011 seconds
+TC_Blocks:	225008
+Exp_Edges:	28801024
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.015547 seconds
+TC_Blocks:	500601
+Exp_Edges:	64076928
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00212577 seconds
+TC_Blocks:	21375
+Exp_Edges:	2736000
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00196613 seconds
+TC_Blocks:	21375
+Exp_Edges:	2736000
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00258403 seconds
+TC_Blocks:	42758
+Exp_Edges:	5473024
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00260429 seconds
+TC_Blocks:	42758
+Exp_Edges:	5473024
+dynamic_shared_size: 356
+	 GPU Preprocess time: 0.00308171 seconds
+TC_Blocks:	40679
+Exp_Edges:	5206912
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.0280199 seconds
+TC_Blocks:	1263556
+Exp_Edges:	161735168
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.0278253 seconds
+TC_Blocks:	1263556
+Exp_Edges:	161735168
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00125255 seconds
+TC_Blocks:	8917
+Exp_Edges:	1141376
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.000988871 seconds
+TC_Blocks:	8964
+Exp_Edges:	1147392
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.000945071 seconds
+TC_Blocks:	9017
+Exp_Edges:	1154176
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.000922181 seconds
+TC_Blocks:	9031
+Exp_Edges:	1155968
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00091229 seconds
+TC_Blocks:	6623
+Exp_Edges:	847744
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.000958086 seconds
+TC_Blocks:	7948
+Exp_Edges:	1017344
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.0010313 seconds
+TC_Blocks:	8252
+Exp_Edges:	1056256
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00104465 seconds
+TC_Blocks:	8489
+Exp_Edges:	1086592
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00101216 seconds
+TC_Blocks:	8637
+Exp_Edges:	1105536
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00101669 seconds
+TC_Blocks:	8798
+Exp_Edges:	1126144
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00199334 seconds
+TC_Blocks:	101018
+Exp_Edges:	12930304
+dynamic_shared_size: 36
+	 GPU Preprocess time: 0.000926636 seconds
+TC_Blocks:	16649
+Exp_Edges:	2131072
+dynamic_shared_size: 220
+	 GPU Preprocess time: 0.00237582 seconds
+TC_Blocks:	167510
+Exp_Edges:	21441280
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.000967021 seconds
+TC_Blocks:	12091
+Exp_Edges:	1547648
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.00215454 seconds
+TC_Blocks:	122871
+Exp_Edges:	15727488
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.0011788 seconds
+TC_Blocks:	9357
+Exp_Edges:	1197696
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00108044 seconds
+TC_Blocks:	14123
+Exp_Edges:	1807744
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00107035 seconds
+TC_Blocks:	20573
+Exp_Edges:	2633344
+dynamic_shared_size: 1604
+	 GPU Preprocess time: 0.0047158 seconds
+TC_Blocks:	8791
+Exp_Edges:	1125248
+dynamic_shared_size: 748
+	 GPU Preprocess time: 0.0155864 seconds
+TC_Blocks:	57513
+Exp_Edges:	7361664
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.0530215 seconds
+TC_Blocks:	541474
+Exp_Edges:	69308672
+dynamic_shared_size: 11284
+	 GPU Preprocess time: 0.0398239 seconds
+TC_Blocks:	1115494
+Exp_Edges:	142783232
+dynamic_shared_size: 508
+	 GPU Preprocess time: 0.00420351 seconds
+TC_Blocks:	11589
+Exp_Edges:	1483392
+dynamic_shared_size: 412
+	 GPU Preprocess time: 0.00305156 seconds
+TC_Blocks:	14176
+Exp_Edges:	1814528
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.00761318 seconds
+TC_Blocks:	240302
+Exp_Edges:	30758656
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.00582648 seconds
+TC_Blocks:	96354
+Exp_Edges:	12333312
+dynamic_shared_size: 22780
+	 GPU Preprocess time: 0.0335841 seconds
+TC_Blocks:	18585
+Exp_Edges:	2378880
+dynamic_shared_size: 22780
+	 GPU Preprocess time: 0.0334618 seconds
+TC_Blocks:	18585
+Exp_Edges:	2378880
+dynamic_shared_size: 22780
+	 GPU Preprocess time: 0.0330785 seconds
+TC_Blocks:	18579
+Exp_Edges:	2378112
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00311325 seconds
+TC_Blocks:	357863
+Exp_Edges:	45806464
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00249995 seconds
+TC_Blocks:	33881
+Exp_Edges:	4336768
+dynamic_shared_size: 1212
+	 GPU Preprocess time: 0.0117434 seconds
+TC_Blocks:	95940
+Exp_Edges:	12280320
+dynamic_shared_size: 1076
+	 GPU Preprocess time: 0.0194539 seconds
+TC_Blocks:	194671
+Exp_Edges:	24917888
+dynamic_shared_size: 996
+	 GPU Preprocess time: 0.00970416 seconds
+TC_Blocks:	46203
+Exp_Edges:	5913984
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00394876 seconds
+TC_Blocks:	53342
+Exp_Edges:	6827776
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00405932 seconds
+TC_Blocks:	67202
+Exp_Edges:	8601856
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00426389 seconds
+TC_Blocks:	81051
+Exp_Edges:	10374528
+dynamic_shared_size: 948
+	 GPU Preprocess time: 0.00304711 seconds
+TC_Blocks:	128123
+Exp_Edges:	16399744
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00366562 seconds
+TC_Blocks:	25529
+Exp_Edges:	3267712
+dynamic_shared_size: 1180
+	 GPU Preprocess time: 0.00387547 seconds
+TC_Blocks:	39464
+Exp_Edges:	5051392
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.00289557 seconds
+TC_Blocks:	346758
+Exp_Edges:	44385024
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00101325 seconds
+TC_Blocks:	14555
+Exp_Edges:	1863040
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.0092797 seconds
+TC_Blocks:	1426679
+Exp_Edges:	182614912
+dynamic_shared_size: 468
+	 GPU Preprocess time: 0.00353508 seconds
+TC_Blocks:	62227
+Exp_Edges:	7965056
+dynamic_shared_size: 180
+	 GPU Preprocess time: 0.00132963 seconds
+TC_Blocks:	26176
+Exp_Edges:	3350528
+dynamic_shared_size: 7300
+	 GPU Preprocess time: 0.0156945 seconds
+TC_Blocks:	477511
+Exp_Edges:	61121408
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00251169 seconds
+TC_Blocks:	33656
+Exp_Edges:	4307968
+dynamic_shared_size: 148
+	 GPU Preprocess time: 0.00199952 seconds
+TC_Blocks:	9949
+Exp_Edges:	1273472
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00124 seconds
+TC_Blocks:	15613
+Exp_Edges:	1998464
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00174367 seconds
+TC_Blocks:	12556
+Exp_Edges:	1607168
+dynamic_shared_size: 308
+	 GPU Preprocess time: 0.00332769 seconds
+TC_Blocks:	17133
+Exp_Edges:	2193024
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.0012129 seconds
+TC_Blocks:	20134
+Exp_Edges:	2577152
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00242749 seconds
+TC_Blocks:	196428
+Exp_Edges:	25142784
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.010988 seconds
+TC_Blocks:	1911176
+Exp_Edges:	244630528
+dynamic_shared_size: 9460
+	 GPU Preprocess time: 0.0212639 seconds
+TC_Blocks:	326873
+Exp_Edges:	41839744
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00166725 seconds
+TC_Blocks:	11615
+Exp_Edges:	1486720
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00182628 seconds
+TC_Blocks:	20933
+Exp_Edges:	2679424
+dynamic_shared_size: 516
+	 GPU Preprocess time: 0.00379651 seconds
+TC_Blocks:	30379
+Exp_Edges:	3888512
+dynamic_shared_size: 324
+	 GPU Preprocess time: 0.00412907 seconds
+TC_Blocks:	33714
+Exp_Edges:	4315392
+dynamic_shared_size: 340
+	 GPU Preprocess time: 0.00109417 seconds
+TC_Blocks:	7312
+Exp_Edges:	935936
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.0122854 seconds
+TC_Blocks:	486158
+Exp_Edges:	62228224
+dynamic_shared_size: 324
+	 GPU Preprocess time: 0.00257398 seconds
+TC_Blocks:	13309
+Exp_Edges:	1703552
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.00318325 seconds
+TC_Blocks:	8868
+Exp_Edges:	1135104
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00271727 seconds
+TC_Blocks:	39802
+Exp_Edges:	5094656
+dynamic_shared_size: 4396
+	 GPU Preprocess time: 0.0235971 seconds
+TC_Blocks:	57664
+Exp_Edges:	7380992
+dynamic_shared_size: 380
+	 GPU Preprocess time: 0.00306399 seconds
+TC_Blocks:	29374
+Exp_Edges:	3759872
+dynamic_shared_size: 396
+	 GPU Preprocess time: 0.00316441 seconds
+TC_Blocks:	34232
+Exp_Edges:	4381696
+dynamic_shared_size: 1100
+	 GPU Preprocess time: 0.00507582 seconds
+TC_Blocks:	31146
+Exp_Edges:	3986688
+dynamic_shared_size: 1124
+	 GPU Preprocess time: 0.00617708 seconds
+TC_Blocks:	43379
+Exp_Edges:	5552512
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00236009 seconds
+TC_Blocks:	20753
+Exp_Edges:	2656384
+dynamic_shared_size: 364
+	 GPU Preprocess time: 0.00359582 seconds
+TC_Blocks:	51433
+Exp_Edges:	6583424
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.00412757 seconds
+TC_Blocks:	69294
+Exp_Edges:	8869632
+dynamic_shared_size: 7772
+	 GPU Preprocess time: 0.0429205 seconds
+TC_Blocks:	112825
+Exp_Edges:	14441600
+dynamic_shared_size: 740
+	 GPU Preprocess time: 0.00534538 seconds
+TC_Blocks:	104883
+Exp_Edges:	13425024
+dynamic_shared_size: 964
+	 GPU Preprocess time: 0.00852438 seconds
+TC_Blocks:	186418
+Exp_Edges:	23861504
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.00194248 seconds
+TC_Blocks:	21920
+Exp_Edges:	2805760
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00646635 seconds
+TC_Blocks:	192175
+Exp_Edges:	24598400
+dynamic_shared_size: 204
+	 GPU Preprocess time: 0.00193953 seconds
+TC_Blocks:	9205
+Exp_Edges:	1178240
+dynamic_shared_size: 236
+	 GPU Preprocess time: 0.00583284 seconds
+TC_Blocks:	101444
+Exp_Edges:	12984832
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00175658 seconds
+TC_Blocks:	45525
+Exp_Edges:	5827200
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.00173055 seconds
+TC_Blocks:	45525
+Exp_Edges:	5827200
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.00256096 seconds
+TC_Blocks:	19447
+Exp_Edges:	2489216
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.00231888 seconds
+TC_Blocks:	15004
+Exp_Edges:	1920512
+dynamic_shared_size: 3092
+	 GPU Preprocess time: 0.0051443 seconds
+TC_Blocks:	30614
+Exp_Edges:	3918592
+dynamic_shared_size: 5252
+	 GPU Preprocess time: 0.00843862 seconds
+TC_Blocks:	13551
+Exp_Edges:	1734528
+dynamic_shared_size: 5244
+	 GPU Preprocess time: 0.00834516 seconds
+TC_Blocks:	17659
+Exp_Edges:	2260352
+dynamic_shared_size: 356
+	 GPU Preprocess time: 0.0032347 seconds
+TC_Blocks:	27037
+Exp_Edges:	3460736
+dynamic_shared_size: 2244
+	 GPU Preprocess time: 0.00375417 seconds
+TC_Blocks:	16572
+Exp_Edges:	2121216
+dynamic_shared_size: 100
+	 GPU Preprocess time: 0.000909544 seconds
+TC_Blocks:	16834
+Exp_Edges:	2154752
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.0201696 seconds
+TC_Blocks:	3809935
+Exp_Edges:	487671680
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00129001 seconds
+TC_Blocks:	7866
+Exp_Edges:	1006848
+dynamic_shared_size: 204
+	 GPU Preprocess time: 0.00241551 seconds
+TC_Blocks:	22602
+Exp_Edges:	2893056
+dynamic_shared_size: 620
+	 GPU Preprocess time: 0.0268597 seconds
+TC_Blocks:	908606
+Exp_Edges:	116301568
+dynamic_shared_size: 276
+	 GPU Preprocess time: 0.00370144 seconds
+TC_Blocks:	45185
+Exp_Edges:	5783680
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.0044569 seconds
+TC_Blocks:	572424
+Exp_Edges:	73270272
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00292354 seconds
+TC_Blocks:	322237
+Exp_Edges:	41246336
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.00378881 seconds
+TC_Blocks:	406428
+Exp_Edges:	52022784
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00279363 seconds
+TC_Blocks:	42182
+Exp_Edges:	5399296
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00241003 seconds
+TC_Blocks:	37565
+Exp_Edges:	4808320
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00271341 seconds
+TC_Blocks:	37565
+Exp_Edges:	4808320
+dynamic_shared_size: 388
+	 GPU Preprocess time: 0.0205723 seconds
+TC_Blocks:	1028313
+Exp_Edges:	131624064
+dynamic_shared_size: 10428
+	 GPU Preprocess time: 0.0148649 seconds
+TC_Blocks:	12790
+Exp_Edges:	1637120
+dynamic_shared_size: 396
+	 GPU Preprocess time: 0.00376039 seconds
+TC_Blocks:	39591
+Exp_Edges:	5067648
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.00436625 seconds
+TC_Blocks:	91345
+Exp_Edges:	11692160
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.0042583 seconds
+TC_Blocks:	112509
+Exp_Edges:	14401152
+dynamic_shared_size: 284
+	 GPU Preprocess time: 0.00521361 seconds
+TC_Blocks:	137933
+Exp_Edges:	17655424
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00393543 seconds
+TC_Blocks:	80694
+Exp_Edges:	10328832
+dynamic_shared_size: 532
+	 GPU Preprocess time: 0.00276576 seconds
+TC_Blocks:	27330
+Exp_Edges:	3498240
+dynamic_shared_size: 804
+	 GPU Preprocess time: 0.00485336 seconds
+TC_Blocks:	169425
+Exp_Edges:	21686400
+dynamic_shared_size: 1132
+	 GPU Preprocess time: 0.0106809 seconds
+TC_Blocks:	387430
+Exp_Edges:	49591040
+dynamic_shared_size: 468
+	 GPU Preprocess time: 0.00310087 seconds
+TC_Blocks:	29724
+Exp_Edges:	3804672
+dynamic_shared_size: 580
+	 GPU Preprocess time: 0.00578997 seconds
+TC_Blocks:	402585
+Exp_Edges:	51530880
+dynamic_shared_size: 1060
+	 GPU Preprocess time: 0.00292506 seconds
+TC_Blocks:	45639
+Exp_Edges:	5841792
+dynamic_shared_size: 676
+	 GPU Preprocess time: 0.00502179 seconds
+TC_Blocks:	49657
+Exp_Edges:	6356096
+dynamic_shared_size: 2572
+	 GPU Preprocess time: 0.0365662 seconds
+TC_Blocks:	289629
+Exp_Edges:	37072512
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00102424 seconds
+TC_Blocks:	5354
+Exp_Edges:	685312
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.00126611 seconds
+TC_Blocks:	30433
+Exp_Edges:	3895424
+dynamic_shared_size: 3596
+	 GPU Preprocess time: 0.00707878 seconds
+TC_Blocks:	331663
+Exp_Edges:	42452864
+dynamic_shared_size: 404
+	 GPU Preprocess time: 0.00381789 seconds
+TC_Blocks:	36442
+Exp_Edges:	4664576
+dynamic_shared_size: 1436
+	 GPU Preprocess time: 0.00310418 seconds
+TC_Blocks:	65854
+Exp_Edges:	8429312
+dynamic_shared_size: 484
+	 GPU Preprocess time: 0.00186687 seconds
+TC_Blocks:	100905
+Exp_Edges:	12915840
+dynamic_shared_size: 604
+	 GPU Preprocess time: 0.00508326 seconds
+TC_Blocks:	30029
+Exp_Edges:	3843712
+dynamic_shared_size: 38652
+	 GPU Preprocess time: 0.0620422 seconds
+TC_Blocks:	296665
+Exp_Edges:	37973120
+dynamic_shared_size: 1228
+	 GPU Preprocess time: 0.0123927 seconds
+TC_Blocks:	37373
+Exp_Edges:	4783744
+dynamic_shared_size: 1348
+	 GPU Preprocess time: 0.0148116 seconds
+TC_Blocks:	41352
+Exp_Edges:	5293056
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.00154907 seconds
+TC_Blocks:	19582
+Exp_Edges:	2506496
+dynamic_shared_size: 76
+	 GPU Preprocess time: 0.0008714 seconds
+TC_Blocks:	4926
+Exp_Edges:	630528
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00153174 seconds
+TC_Blocks:	22504
+Exp_Edges:	2880512
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.000822434 seconds
+TC_Blocks:	3771
+Exp_Edges:	482688
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.000838441 seconds
+TC_Blocks:	3771
+Exp_Edges:	482688
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.000747965 seconds
+TC_Blocks:	3771
+Exp_Edges:	482688
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00280321 seconds
+TC_Blocks:	82224
+Exp_Edges:	10524672
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.00285258 seconds
+TC_Blocks:	82224
+Exp_Edges:	10524672
+dynamic_shared_size: 260
+	 GPU Preprocess time: 0.0027223 seconds
+TC_Blocks:	82224
+Exp_Edges:	10524672
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00160342 seconds
+TC_Blocks:	16155
+Exp_Edges:	2067840
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00117324 seconds
+TC_Blocks:	16155
+Exp_Edges:	2067840
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00118367 seconds
+TC_Blocks:	9066
+Exp_Edges:	1160448
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.0023672 seconds
+TC_Blocks:	7059
+Exp_Edges:	903552
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00302004 seconds
+TC_Blocks:	10181
+Exp_Edges:	1303168
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00298415 seconds
+TC_Blocks:	10181
+Exp_Edges:	1303168
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.0024296 seconds
+TC_Blocks:	7059
+Exp_Edges:	903552
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.000921077 seconds
+TC_Blocks:	2808
+Exp_Edges:	359424
+dynamic_shared_size: 572
+	 GPU Preprocess time: 0.00451081 seconds
+TC_Blocks:	40526
+Exp_Edges:	5187328
+dynamic_shared_size: 44
+	 GPU Preprocess time: 0.0028755 seconds
+TC_Blocks:	226170
+Exp_Edges:	28949760
+dynamic_shared_size: 5572
+	 GPU Preprocess time: 0.0718118 seconds
+TC_Blocks:	121714
+Exp_Edges:	15579392
+dynamic_shared_size: 81316
+	 GPU Preprocess time: 0.128617 seconds
+TC_Blocks:	79284
+Exp_Edges:	10148352
+dynamic_shared_size: 140
+	 GPU Preprocess time: 0.00241912 seconds
+TC_Blocks:	14845
+Exp_Edges:	1900160
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.00144967 seconds
+TC_Blocks:	25908
+Exp_Edges:	3316224
+dynamic_shared_size: 196
+	 GPU Preprocess time: 0.00137194 seconds
+TC_Blocks:	25906
+Exp_Edges:	3315968
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.00571724 seconds
+TC_Blocks:	128746
+Exp_Edges:	16479488
+dynamic_shared_size: 156
+	 GPU Preprocess time: 0.00240612 seconds
+TC_Blocks:	5572
+Exp_Edges:	713216
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00263201 seconds
+TC_Blocks:	15838
+Exp_Edges:	2027264
+dynamic_shared_size: 172
+	 GPU Preprocess time: 0.00277591 seconds
+TC_Blocks:	20971
+Exp_Edges:	2684288
+dynamic_shared_size: 332
+	 GPU Preprocess time: 0.0349292 seconds
+TC_Blocks:	25567
+Exp_Edges:	3272576
+dynamic_shared_size: 332
+	 GPU Preprocess time: 0.00509602 seconds
+TC_Blocks:	25567
+Exp_Edges:	3272576
+dynamic_shared_size: 396
+	 GPU Preprocess time: 0.00610256 seconds
+TC_Blocks:	50237
+Exp_Edges:	6430336
+dynamic_shared_size: 396
+	 GPU Preprocess time: 0.00761825 seconds
+TC_Blocks:	74920
+Exp_Edges:	9589760
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00202743 seconds
+TC_Blocks:	26222
+Exp_Edges:	3356416
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00518205 seconds
+TC_Blocks:	41355
+Exp_Edges:	5293440
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00167424 seconds
+TC_Blocks:	9716
+Exp_Edges:	1243648
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00104868 seconds
+TC_Blocks:	3172
+Exp_Edges:	406016
+dynamic_shared_size: 156
+dimN: 256
+144
+144
+2D_27628_bjtcai
+2D_27628_bjtcai
+2D_54019_highK
+2D_54019_highK
+333SP
+333SP
+3D_28984_Tetra
+3D_28984_Tetra
+3D_51448_3D
+3D_51448_3D
+3Dspectralwave
+3Dspectralwave
+3Dspectralwave2
+3Dspectralwave2
+3dtube
+3dtube
+598a
+598a
+a0nsdsil
+a0nsdsil
+a2nnsnsl
+a2nnsnsl
+a5esindl
+a5esindl
+adaptive
+adaptive
+af_0_k101
+af_0_k101
+af_1_k101
+af_1_k101
+af_2_k101
+af_2_k101
+af_3_k101
+af_3_k101
+af_4_k101
+af_4_k101
+af_5_k101
+af_5_k101
+af_shell1
+af_shell1
+af_shell10
+af_shell10
+af_shell2
+af_shell2
+af_shell3
+af_shell3
+af_shell4
+af_shell4
+af_shell5
+af_shell5
+af_shell6
+af_shell6
+af_shell7
+af_shell7
+af_shell8
+af_shell8
+af_shell9
+af_shell9
+ak2010
+ak2010
+amazon0505
+amazon0505
+Andrews
+Andrews
+AS365
+AS365
+as-caida
+as-caida
+as-Skitter
+as-Skitter
+astro-ph
+astro-ph
+auto
+auto
+barrier2-1
+barrier2-1
+barrier2-10
+barrier2-10
+barrier2-11
+barrier2-11
+barrier2-12
+barrier2-12
+barrier2-2
+barrier2-2
+barrier2-3
+barrier2-3
+barrier2-4
+barrier2-4
+barrier2-9
+barrier2-9
+bauru5727
+bauru5727
+bbmat
+bbmat
+bcsstk17
+bcsstk17
+bcsstk18
+bcsstk18
+bcsstk25
+bcsstk25
+bcsstk29
+bcsstk29
+bcsstk30
+bcsstk30
+bcsstk31
+bcsstk31
+bcsstk32
+bcsstk32
+bcsstk35
+bcsstk35
+bcsstk36
+bcsstk36
+bcsstk37
+bcsstk37
+bcsstk39
+bcsstk39
+bcsstm36
+bcsstm36
+belgium_osm
+belgium_osm
+BenElechi1
+BenElechi1
+blockqp1
+blockqp1
+bloweya
+bloweya
+bloweybl
+bloweybl
+bmw3_2
+bmw3_2
+bmw7st_1
+bmw7st_1
+bmwcra_1
+bmwcra_1
+bone010
+bone010
+boneS01
+boneS01
+boneS10
+boneS10
+boyd1
+boyd1
+boyd2
+boyd2
+brack2
+brack2
+brainpc2
+brainpc2
+bratu3d
+bratu3d
+Bump_2911
+Bump_2911
+bundle1
+bundle1
+bundle_adj
+bundle_adj
+c-42
+c-42
+c-43
+c-43
+c-45
+c-45
+c-46
+c-46
+c-47
+c-47
+c-48
+c-48
+c-49
+c-49
+c-50
+c-50
+c-51
+c-51
+c-52
+c-52
+c-53
+c-53
+c-54
+c-54
+c-55
+c-55
+c-56
+c-56
+c-57
+c-57
+c-58
+c-58
+c-59
+c-59
+c-60
+c-60
+c-61
+c-61
+c-62
+c-62
+c-62ghs
+c-62ghs
+c-63
+c-63
+c-64
+c-64
+c-64b
+c-64b
+c-65
+c-65
+c-66
+c-66
+c-66b
+c-66b
+c-67b
+c-67b
+c-68
+c-68
+c-69
+c-69
+c-70
+c-70
+c-71
+c-71
+c-73
+c-73
+c-73b
+c-73b
+ca-AstroPh
+ca-AstroPh
+ca-CondMat
+ca-CondMat
+cage14
+cage14
+caidaRouterLevel
+caidaRouterLevel
+cant
+cant
+case39
+case39
+case9
+case9
+c-big
+c-big
+cbuckle
+cbuckle
+ccc
+ccc
+cfd1
+cfd1
+Chebyshev4
+Chebyshev4
+circuit_4
+circuit_4
+circuit5M_dc
+circuit5M_dc
+citationCiteseer
+citationCiteseer
+cit-Patents
+cit-Patents
+ckt11752_dc_1
+ckt11752_dc_1
+ckt11752_tr_0
+ckt11752_tr_0
+cnr-2000
+cnr-2000
+CO
+CO
+coAuthorsCiteseer
+coAuthorsCiteseer
+coAuthorsDBLP
+coAuthorsDBLP
+cond-mat-2003
+cond-mat-2003
+cond-mat-2005
+cond-mat-2005
+conf5_4-8x8-05
+conf5_4-8x8-05
+conf5_4-8x8-10
+conf5_4-8x8-10
+conf5_4-8x8-15
+conf5_4-8x8-15
+conf5_4-8x8-20
+conf5_4-8x8-20
+conf6_0-8x8-20
+conf6_0-8x8-20
+conf6_0-8x8-30
+conf6_0-8x8-30
+conf6_0-8x8-80
+conf6_0-8x8-80
+consph
+consph
+cont-201
+cont-201
+cont-300
+cont-300
+coPapersCiteseer
+coPapersCiteseer
+coPapersDBLP
+coPapersDBLP
+copter1
+copter1
+CoupCons3D
+CoupCons3D
+crankseg_1
+crankseg_1
+crankseg_2
+crankseg_2
+crplat2
+crplat2
+crystk02
+crystk02
+crystk03
+crystk03
+crystm02
+crystm02
+crystm03
+crystm03
+ct2010
+ct2010
+ct20stif
+ct20stif
+Cube_Coup_dt0
+Cube_Coup_dt0
+Cube_Coup_dt6
+Cube_Coup_dt6
+CurlCurl_0
+CurlCurl_0
+CurlCurl_4
+CurlCurl_4
+cvxqp3
+cvxqp3
+cyl6
+cyl6
+darcy003
+darcy003
+dawson5
+dawson5
+dblp-2010
+dblp-2010
+dc3
+dc3
+de2010
+de2010
+debr
+debr
+delaunay_n15
+delaunay_n15
+delaunay_n16
+delaunay_n16
+delaunay_n17
+delaunay_n17
+delaunay_n18
+delaunay_n18
+delaunay_n19
+delaunay_n19
+delaunay_n20
+delaunay_n20
+delaunay_n21
+delaunay_n21
+delaunay_n22
+delaunay_n22
+denormal
+denormal
+dictionary28
+dictionary28
+dielFilterV2clx
+dielFilterV2clx
+dielFilterV2real
+dielFilterV2real
+dielFilterV3clx
+dielFilterV3clx
+Dubcova1
+Dubcova1
+Dubcova3
+Dubcova3
+e40r0100
+e40r0100
+EAT_RS
+EAT_RS
+ecology1
+ecology1
+ecology2
+ecology2
+email-Enron
+email-Enron
+Emilia_923
+Emilia_923
+engine
+engine
+enron
+enron
+eu-2005
+eu-2005
+ex11
+ex11
+ex19
+ex19
+F1
+F1
+F2
+F2
+Fault_639
+Fault_639
+fcondp2
+fcondp2
+fem_hifreq_circuit
+fem_hifreq_circuit
+filter3D
+filter3D
+finance256
+finance256
+Flan_1565
+Flan_1565
+flickr
+flickr
+foldoc
+foldoc
+Freescale1
+Freescale1
+fullb
+fullb
+fxm4_6
+fxm4_6
+G2_circuit
+G2_circuit
+G3_circuit
+G3_circuit
+Ga10As10H30
+Ga10As10H30
+Ga19As19H42
+Ga19As19H42
+Ga3As3H12
+Ga3As3H12
+Ga41As41H72
+Ga41As41H72
+GaAsH6
+GaAsH6
+gas_sensor
+gas_sensor
+Ge87H76
+Ge87H76
+Ge99H100
+Ge99H100
+gearbox
+gearbox
+Geo_1438
+Geo_1438
+gridgena
+gridgena
+gsm_106857
+gsm_106857
+gupta1
+gupta1
+gupta2
+gupta2
+gupta3
+gupta3
+gyro
+gyro
+gyro_k
+gyro_k
+gyro_m
+gyro_m
+H2O
+H2O
+halfb
+halfb
+Hamrle3
+Hamrle3
+hangGlider_4
+hangGlider_4
+hangGlider_5
+hangGlider_5
+helm2d03
+helm2d03
+helm3d01
+helm3d01
+hi2010
+hi2010
+hollywood-2009
+hollywood-2009
+hood
+hood
+Hook_1498
+Hook_1498
+HTC_336_4438
+HTC_336_4438
+HTC_336_9129
+HTC_336_9129
+human_gene1
+human_gene1
+human_gene2
+human_gene2
+ibm_matrix_2
+ibm_matrix_2
+igbt3
+igbt3
+in-2004
+in-2004
+inlet
+inlet
+inline_1
+inline_1
+jan99jac120sc
+jan99jac120sc
+juba40k
+juba40k
+k3plates
+k3plates
+kim1
+kim1
+kkt_power
+kkt_power
+kron_g500-logn16
+kron_g500-logn16
+kron_g500-logn17
+kron_g500-logn17
+kron_g500-logn18
+kron_g500-logn18
+kron_g500-logn19
+kron_g500-logn19
+kron_g500-logn20
+kron_g500-logn20
+laminar_duct3D
+laminar_duct3D
+language
+language
+largebasis
+largebasis
+ldoor
+ldoor
+lhr34
+lhr34
+lhr34c
+lhr34c
+lhr71
+lhr71
+lhr71c
+lhr71c
+li
+li
+Long_Coup_dt0
+Long_Coup_dt0
+Long_Coup_dt6
+Long_Coup_dt6
+lowThrust_10
+lowThrust_10
+lowThrust_11
+lowThrust_11
+lowThrust_12
+lowThrust_12
+lowThrust_13
+lowThrust_13
+lowThrust_4
+lowThrust_4
+lowThrust_5
+lowThrust_5
+lowThrust_6
+lowThrust_6
+lowThrust_7
+lowThrust_7
+lowThrust_8
+lowThrust_8
+lowThrust_9
+lowThrust_9
+lp1
+lp1
+luxembourg_osm
+luxembourg_osm
+m14b
+m14b
+mario001
+mario001
+mario002
+mario002
+mark3jac040sc
+mark3jac040sc
+mark3jac060sc
+mark3jac060sc
+me2010
+me2010
+memplus
+memplus
+mip1
+mip1
+ML_Laplace
+ML_Laplace
+mouse_gene
+mouse_gene
+msc10848
+msc10848
+msc23052
+msc23052
+msdoor
+msdoor
+m_t1
+m_t1
+mult_dcop_01
+mult_dcop_01
+mult_dcop_02
+mult_dcop_02
+mult_dcop_03
+mult_dcop_03
+NACA0015
+NACA0015
+nasasrb
+nasasrb
+nd12k
+nd12k
+nd24k
+nd24k
+nd6k
+nd6k
+net100
+net100
+net125
+net125
+net150
+net150
+net4-1
+net4-1
+net50
+net50
+net75
+net75
+netherlands_osm
+netherlands_osm
+nh2010
+nh2010
+NLR
+NLR
+NotreDame_www
+NotreDame_www
+nv2010
+nv2010
+ohne2
+ohne2
+oilpan
+oilpan
+olafu
+olafu
+onetone2
+onetone2
+OPF_10000
+OPF_10000
+opt1
+opt1
+p2p-Gnutella31
+p2p-Gnutella31
+parabolic_fem
+parabolic_fem
+patents
+patents
+pattern1
+pattern1
+pcrystk02
+pcrystk02
+pcrystk03
+pcrystk03
+pct20stif
+pct20stif
+pdb1HYS
+pdb1HYS
+pds10
+pds10
+PFlow_742
+PFlow_742
+pkustk01
+pkustk01
+pkustk02
+pkustk02
+pkustk03
+pkustk03
+pkustk04
+pkustk04
+pkustk05
+pkustk05
+pkustk06
+pkustk06
+pkustk07
+pkustk07
+pkustk08
+pkustk08
+pkustk09
+pkustk09
+pkustk10
+pkustk10
+pkustk11
+pkustk11
+pkustk12
+pkustk12
+pkustk13
+pkustk13
+pkustk14
+pkustk14
+pli
+pli
+PR02R
+PR02R
+Pres_Poisson
+Pres_Poisson
+pwtk
+pwtk
+qa8fk
+qa8fk
+qa8fm
+qa8fm
+raefsky3
+raefsky3
+raefsky4
+raefsky4
+rajat15
+rajat15
+rajat22
+rajat22
+rajat26
+rajat26
+ramage02
+ramage02
+Reuters911
+Reuters911
+rgg_n_2_15_s0
+rgg_n_2_15_s0
+rgg_n_2_22_s0
+rgg_n_2_22_s0
+ri2010
+ri2010
+rim
+rim
+RM07R
+RM07R
+rma10
+rma10
+roadNet-CA
+roadNet-CA
+roadNet-PA
+roadNet-PA
+roadNet-TX
+roadNet-TX
+s3dkq4m2
+s3dkq4m2
+s3dkt3m2
+s3dkt3m2
+s4dkt3m2
+s4dkt3m2
+Serena
+Serena
+shermanACb
+shermanACb
+ship_001
+ship_001
+ship_003
+ship_003
+shipsec1
+shipsec1
+shipsec5
+shipsec5
+shipsec8
+shipsec8
+Si10H16
+Si10H16
+Si34H36
+Si34H36
+Si41Ge41H72
+Si41Ge41H72
+Si5H12
+Si5H12
+Si87H76
+Si87H76
+sinc15
+sinc15
+SiO
+SiO
+SiO2
+SiO2
+skirt
+skirt
+smallworld
+smallworld
+sme3Dc
+sme3Dc
+smt
+smt
+soc-sign-Slashdot090221
+soc-sign-Slashdot090221
+sparsine
+sparsine
+srb1
+srb1
+Stanford
+Stanford
+std1_Jac2
+std1_Jac2
+std1_Jac3
+std1_Jac3
+stokes128
+stokes128
+stokes64
+stokes64
+struct3
+struct3
+t2dah
+t2dah
+t2dah_a
+t2dah_a
+t2dah_e
+t2dah_e
+t3dh
+t3dh
+t3dh_a
+t3dh_a
+t3dh_e
+t3dh_e
+t3dl
+t3dl
+t3dl_a
+t3dl_a
+tandem_vtx
+tandem_vtx
+ted_A
+ted_A
+ted_AB
+ted_AB
+ted_AB_unscaled
+ted_AB_unscaled
+ted_A_unscaled
+ted_A_unscaled
+ted_B_unscaled
+ted_B_unscaled
+thread
+thread
+tmt_sym
+tmt_sym
+torso1
+torso1
+transient
+transient
+trdheim
+trdheim
+Trefethen_20000
+Trefethen_20000
+Trefethen_20000b
+Trefethen_20000b
+troll
+troll
+TSOPF_FS_b162_c1
+TSOPF_FS_b162_c1
+TSOPF_FS_b162_c3
+TSOPF_FS_b162_c3
+TSOPF_FS_b162_c4
+TSOPF_FS_b162_c4
+TSOPF_FS_b300
+TSOPF_FS_b300
+TSOPF_FS_b300_c1
+TSOPF_FS_b300_c1
+TSOPF_FS_b300_c2
+TSOPF_FS_b300_c2
+TSOPF_FS_b300_c3
+TSOPF_FS_b300_c3
+TSOPF_FS_b39_c19
+TSOPF_FS_b39_c19
+TSOPF_FS_b39_c30
+TSOPF_FS_b39_c30
+TSOPF_FS_b39_c7
+TSOPF_FS_b39_c7
+TSOPF_FS_b9_c6
+TSOPF_FS_b9_c6
+TSOPF_RS_b162_c3
+TSOPF_RS_b162_c3
+	 GPU Preprocess time: 0.00236265 seconds
+TC_Blocks:	11378
+Exp_Edges:	1456384
+dynamic_shared_size: 164
+	 GPU Preprocess time: 0.00255961 seconds
+TC_Blocks:	15102
+Exp_Edges:	1933056
+dynamic_shared_size: 884
+	 GPU Preprocess time: 0.014662 seconds
+TC_Blocks:	63637
+Exp_Edges:	8145536
+dynamic_shared_size: 1348
+	 GPU Preprocess time: 0.0247906 seconds
+TC_Blocks:	143809
+Exp_Edges:	18407552
+dynamic_shared_size: 1348
+	 GPU Preprocess time: 0.0247769 seconds
+TC_Blocks:	143809
+Exp_Edges:	18407552
+dynamic_shared_size: 316
+	 GPU Preprocess time: 0.00491709 seconds
+TC_Blocks:	17641
+Exp_Edges:	2258048
+dynamic_shared_size: 380
+	 GPU Preprocess time: 0.00539386 seconds
+TC_Blocks:	34876
+Exp_Edges:	4464128
+dynamic_shared_size: 372
+	 GPU Preprocess time: 0.00605467 seconds
+TC_Blocks:	52104
+Exp_Edges:	6669312
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00194203 seconds
+TC_Blocks:	19746
+Exp_Edges:	2527488
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00205242 seconds
+TC_Blocks:	31152
+Exp_Edges:	3987456
+dynamic_shared_size: 92
+	 GPU Preprocess time: 0.00149756 seconds
+TC_Blocks:	7302
+Exp_Edges:	934656
+dynamic_shared_size: 716
+	 GPU Preprocess time: 0.0115142 seconds
+TC_Blocks:	42474
+Exp_Edges:	5436672
+dynamic_shared_size: 884
+	 GPU Preprocess time: 0.0131826 seconds
+TC_Blocks:	83928
+Exp_Edges:	10742784
+dynamic_shared_size: 508
+	 GPU Preprocess time: 0.0040587 seconds
+TC_Blocks:	26653
+Exp_Edges:	3411584
+dynamic_shared_size: 108
+	 GPU Preprocess time: 0.00164369 seconds
+TC_Blocks:	9352
+Exp_Edges:	1197056
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00230044 seconds
+TC_Blocks:	9766
+Exp_Edges:	1250048
+dynamic_shared_size: 84
+	 GPU Preprocess time: 0.00166184 seconds
+TC_Blocks:	65835
+Exp_Edges:	8426880
+dynamic_shared_size: 36
+	 GPU Preprocess time: 0.00110106 seconds
+TC_Blocks:	23573
+Exp_Edges:	3017344
+dynamic_shared_size: 36
+	 GPU Preprocess time: 0.00109401 seconds
+TC_Blocks:	23089
+Exp_Edges:	2955392
+dynamic_shared_size: 188
+	 GPU Preprocess time: 0.00276257 seconds
+TC_Blocks:	27953
+Exp_Edges:	3577984
+dynamic_shared_size: 52
+	 GPU Preprocess time: 0.00654363 seconds
+TC_Blocks:	868038
+Exp_Edges:	111108864
+dynamic_shared_size: 316
+	 GPU Preprocess time: 0.00199173 seconds
+TC_Blocks:	11268
+Exp_Edges:	1442304
+dynamic_shared_size: 116
+	 GPU Preprocess time: 0.00222496 seconds
+TC_Blocks:	29489
+Exp_Edges:	3774592
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00107557 seconds
+TC_Blocks:	13589
+Exp_Edges:	1739392
+dynamic_shared_size: 1492
+	 GPU Preprocess time: 0.00402333 seconds
+TC_Blocks:	250889
+Exp_Edges:	32113792
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00121078 seconds
+TC_Blocks:	5989
+Exp_Edges:	766592
+dynamic_shared_size: 292
+	 GPU Preprocess time: 0.00149349 seconds
+TC_Blocks:	26909
+Exp_Edges:	3444352
+dynamic_shared_size: 68
+	 GPU Preprocess time: 0.00113038 seconds
+TC_Blocks:	2477
+Exp_Edges:	317056
+dynamic_shared_size: 2228
+	 GPU Preprocess time: 0.00388061 seconds
+TC_Blocks:	20832
+Exp_Edges:	2666496
+dynamic_shared_size: 268
+	 GPU Preprocess time: 0.00216287 seconds
+TC_Blocks:	44757
+Exp_Edges:	5728896
+dynamic_shared_size: 964
+	 GPU Preprocess time: 0.0024155 seconds
+TC_Blocks:	37722
+Exp_Edges:	4828416
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00142959 seconds
+TC_Blocks:	14226
+Exp_Edges:	1820928
+dynamic_shared_size: 2236
+	 GPU Preprocess time: 0.00501079 seconds
+TC_Blocks:	146489
+Exp_Edges:	18750592
+dynamic_shared_size: 1068
+	 GPU Preprocess time: 0.00204021 seconds
+TC_Blocks:	5820
+Exp_Edges:	744960
+dynamic_shared_size: 1596
+	 GPU Preprocess time: 0.00316374 seconds
+TC_Blocks:	15335
+Exp_Edges:	1962880
+dynamic_shared_size: 252
+	 GPU Preprocess time: 0.00155259 seconds
+TC_Blocks:	12331
+Exp_Edges:	1578368
+dynamic_shared_size: 316
+	 GPU Preprocess time: 0.00203081 seconds
+TC_Blocks:	31589
+Exp_Edges:	4043392
+dynamic_shared_size: 132
+	 GPU Preprocess time: 0.000934235 seconds
+TC_Blocks:	9639
+Exp_Edges:	1233792
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00116208 seconds
+TC_Blocks:	12000
+Exp_Edges:	1536000
+dynamic_shared_size: 60
+	 GPU Preprocess time: 0.00128177 seconds
+TC_Blocks:	14392
+Exp_Edges:	1842176
+dynamic_shared_size: 516
+	 GPU Preprocess time: 0.00810063 seconds
+TC_Blocks:	661165
+Exp_Edges:	84629120
+dynamic_shared_size: 5404
+	 GPU Preprocess time: 0.00875377 seconds
+TC_Blocks:	89800
+Exp_Edges:	11494400
+dynamic_shared_size: 6388
+	 GPU Preprocess time: 0.0200338 seconds
+TC_Blocks:	2276393
+Exp_Edges:	291378304
+dynamic_shared_size: 8652
+	 GPU Preprocess time: 0.0350304 seconds
+TC_Blocks:	4418423
+Exp_Edges:	565558144
+dynamic_shared_size: 10932
+	 GPU Preprocess time: 0.0365882 seconds
+TC_Blocks:	4677316
+Exp_Edges:	598696448
+dynamic_shared_size: 7588
+	 GPU Preprocess time: 0.0362216 seconds
+TC_Blocks:	5370254
+Exp_Edges:	687392512
+dynamic_shared_size: 101324
+	 GPU Preprocess time: 0.169729 seconds
+TC_Blocks:	626546
+Exp_Edges:	80197888
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00207863 seconds
+TC_Blocks:	17665
+Exp_Edges:	2261120
+dynamic_shared_size: 228
+	 GPU Preprocess time: 0.00093371 seconds
+TC_Blocks:	9409
+Exp_Edges:	1204352
+dynamic_shared_size: 204
+	 GPU Preprocess time: 0.00105715 seconds
+TC_Blocks:	26767
+Exp_Edges:	3426176
+dynamic_shared_size: 428
+	 GPU Preprocess time: 0.00593301 seconds
+TC_Blocks:	99748
+Exp_Edges:	12767744
+dynamic_shared_size: 1332
+	 GPU Preprocess time: 0.0128647 seconds
+TC_Blocks:	46039
+Exp_Edges:	5892992
+dynamic_shared_size: 18948
+	 GPU Preprocess time: 0.117424 seconds
+TC_Blocks:	15820655
+Exp_Edges:	2025043840
+dynamic_shared_size: 78860
+	 GPU Preprocess time: 0.66554 seconds
+TC_Blocks:	6947860
+Exp_Edges:	889326080
+dynamic_shared_size: 9540
+	 GPU Preprocess time: 0.0144316 seconds
+TC_Blocks:	74003
+Exp_Edges:	9472384
+dynamic_shared_size: 2092
+	 GPU Preprocess time: 0.00464244 seconds
+TC_Blocks:	201600
+Exp_Edges:	25804800
+dynamic_shared_size: 508
+	 GPU Preprocess time: 0.00193053 seconds
+TC_Blocks:	76714
+Exp_Edges:	9819392
+dynamic_shared_size: 26428
+	 GPU Preprocess time: 0.0928291 seconds
+TC_Blocks:	832376
+Exp_Edges:	106544128
+dynamic_shared_size: 4260
+	 GPU Preprocess time: 0.00889022 seconds
+TC_Blocks:	455410
+Exp_Edges:	58292480
+dynamic_shared_size: 124
+	 GPU Preprocess time: 0.00222354 seconds
+TC_Blocks:	130006
+Exp_Edges:	16640768
+dynamic_shared_size: 8004
+	 GPU Preprocess time: 0.0211648 seconds
+TC_Blocks:	1748638
+Exp_Edges:	223825664
+dynamic_shared_size: 636
+	 GPU Preprocess time: 0.00288652 seconds
+TC_Blocks:	238338
+Exp_Edges:	30507264
+dynamic_shared_size: 1900
+TSOPF_RS_b162_c4
+TSOPF_RS_b162_c4
+TSOPF_RS_b2052_c1
+TSOPF_RS_b2052_c1
+TSOPF_RS_b2383
+TSOPF_RS_b2383
+TSOPF_RS_b2383_c1
+TSOPF_RS_b2383_c1
+TSOPF_RS_b300_c1
+TSOPF_RS_b300_c1
+TSOPF_RS_b300_c2
+TSOPF_RS_b300_c2
+TSOPF_RS_b300_c3
+TSOPF_RS_b300_c3
+TSOPF_RS_b39_c19
+TSOPF_RS_b39_c19
+TSOPF_RS_b39_c30
+TSOPF_RS_b39_c30
+TSOPF_RS_b39_c7
+TSOPF_RS_b39_c7
+TSOPF_RS_b678_c1
+TSOPF_RS_b678_c1
+TSOPF_RS_b678_c2
+TSOPF_RS_b678_c2
+tsyl201
+tsyl201
+tube1
+tube1
+tube2
+tube2
+turon_m
+turon_m
+usroads
+usroads
+usroads-48
+usroads-48
+vanbody
+vanbody
+venturiLevel3
+venturiLevel3
+vibrobox
+vibrobox
+viscorocks
+viscorocks
+vsp_barth5_1Ksep_50in_5Kout
+vsp_barth5_1Ksep_50in_5Kout
+vsp_bcsstk30_500sep_10in_1Kout
+vsp_bcsstk30_500sep_10in_1Kout
+vsp_befref_fxm_2_4_air02
+vsp_befref_fxm_2_4_air02
+vsp_bump2_e18_aa01_model1_crew1
+vsp_bump2_e18_aa01_model1_crew1
+vsp_c-30_data_data
+vsp_c-30_data_data
+vsp_c-60_data_cti_cs4
+vsp_c-60_data_cti_cs4
+vsp_finan512_scagr7-2c_rlfddd
+vsp_finan512_scagr7-2c_rlfddd
+vsp_mod2_pgp2_slptsk
+vsp_mod2_pgp2_slptsk
+vsp_model1_crew1_cr42_south31
+vsp_model1_crew1_cr42_south31
+vsp_msc10848_300sep_100in_1Kout
+vsp_msc10848_300sep_100in_1Kout
+vsp_p0291_seymourl_iiasa
+vsp_p0291_seymourl_iiasa
+vsp_sctap1-2b_and_seymourl
+vsp_sctap1-2b_and_seymourl
+vsp_south31_slptsk
+vsp_south31_slptsk
+vsp_vibrobox_scagr7-2c_rlfddd
+vsp_vibrobox_scagr7-2c_rlfddd
+vt2010
+vt2010
+wathen100
+wathen100
+wathen120
+wathen120
+web-Google
+web-Google
+web-NotreDame
+web-NotreDame
+wikipedia-20051105
+wikipedia-20051105
+wikipedia-20060925
+wikipedia-20060925
+wikipedia-20061104
+wikipedia-20061104
+wikipedia-20070206
+wikipedia-20070206
+wiki-Talk
+wiki-Talk
+windscreen
+windscreen
+wing_nodal
+wing_nodal
+wy2010
+wy2010
+x104
+x104
+Zd_Jac2
+Zd_Jac2
+ogb
+ogb
+reddit
+reddit
+GitHub
+GitHub
+artist
+artist
+ell
+ell
+amazon
+amazon
+amazon0505
+amazon0505
+dd
+dd
+yelp
+yelp
+comamazon
+comamazon
+IGB_small
+IGB_small
+	 GPU Preprocess time: 0.0109633 seconds
+TC_Blocks:	1660497
+Exp_Edges:	212543616
+dimN: 128
+Traceback (most recent call last):
+  File "/home/shijinliang/module/flashsparse-ae/Baseline/DTC-SpMM/run_DTC_SpMM_h100.py", line 25, in <module>
+    file_name = project_dir + '/result/Baseline/spmm/dtc_spmm_f32_n' + dimN + '.csv'
+TypeError: can only concatenate str (not "int") to str

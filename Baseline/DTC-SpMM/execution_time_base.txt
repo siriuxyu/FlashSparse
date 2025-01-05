@@ -1,0 +1,5 @@
+
+Baseline-128-6.26 minutes
+Baseline-256-6.81 minutes
+Baseline-256-7.36 minutes
+Baseline-128-6.78 minutes
