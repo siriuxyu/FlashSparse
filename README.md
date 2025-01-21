@@ -1,3 +1,7 @@
+## Publication
+
+FlashSparse is accepted by PPoPP 2025. See the Arxiv **[preprint version of the paper](https://arxiv.org/abs/2412.11007)**. FlashSparse significantly reduces the computation redundancy for unstructured sparsity on Tensor Cores through a **Swap-and-Transpose** mapping strategy.
+
 ## 1. Clone this project.
 ```
 git clone --recursive git@github.com:anonymous2024111/anonymous.git
