@@ -757,7 +757,7 @@ SparseMatrix::SparseMatrix(const std::string& file_path, Swizzle row_swizzle,int
   FILE *fp = fopen(file_path.c_str(),"r");
   fgets(buf, 300, fp);
   
-  if(strstr(buf, "symmetric") != NULL || strstr(buf, "Hermitian") != NULL) sflag = 1; // symmetric
+  if(strstr(buf, "symmetric") != NULL || strstr(buf, "Hermitian") != NULL) sflag = 0; // symmetric
   else sflag = 0;
 
   if(strstr(buf, "pattern") != NULL) nflag = 0; // non-value
