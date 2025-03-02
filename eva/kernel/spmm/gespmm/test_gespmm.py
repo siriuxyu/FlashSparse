@@ -5,8 +5,12 @@ import time
 # sys.path.append('eva100/kernel/gcn')
 from gespmm.mdataset import *
 
+import os
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+from utils import Dataset
 
-def kernel(inputInfo, epoches):
+
+def kernel(inputInfo:MGCN_dataset, epoches):
     # for i in range(epoches):
     X_prime, spmm_ms_avg = GESpMM_kernel.forward(inputInfo.row_pointers, inputInfo.column_index, inputInfo.values, 
                                inputInfo.x, inputInfo.num_nodes,  inputInfo.x.size(1), inputInfo.num_edges, epoches, 10)

@@ -6,6 +6,7 @@ import scipy.sparse as sp
 from scipy.sparse import coo_matrix
 from tcgnn.config import *
 from scipy.sparse import *
+from scipy.io import mmread
 
 def is_symmetric(sparse_matrix):
     transposed_matrix = sparse_matrix.transpose(copy=True)
@@ -17,22 +18,39 @@ class MGCN_dataset(torch.nn.Module):
     def __init__(self, data):
         super(MGCN_dataset, self).__init__()
         # self.graph = np.load('dgl_dataset/mythroughput/' + data +'.npz')
-        self.graph = np.load(data)
+        # self.graph = np.load(data)
+        self.path = data
         # print(self.graph)
         # self.num_features = dimN
         self.init_edges()
         # self.init_embedding()
         
     def init_edges(self):
-        # loading from a .npz graph file
-        # src_li=self.graph['src_li']
-        # dst_li=self.graph['dst_li']
+        if not self.path.endswith('.mtx'):
+            raise ValueError("graph file must be a .mtx file")
         
-        self.num_nodes = self.graph['num_nodes_src']-0
-        self.num_edges = self.graph['num_edges']-0
-        src_li = self.graph['src_li']
-        dst_li = self.graph['dst_li']
-        self.edge_index = np.stack([src_li, dst_li])
+        mtx = mmread(self.path)
+        if not isinstance(mtx, coo_matrix):
+            mtx = coo_matrix(mtx)
+            
+        self.num_nodes_src = mtx.shape[1]
+        self.num_nodes_dst = mtx.shape[0]
+        
+        self.num_nodes = self.num_nodes_src
+        # if self.num_nodes_src%16 !=0 :
+        #     self.num_nodes = self.num_nodes_src + 16 - self.num_nodes_src%16
+        
+        self.num_edges = mtx.nnz
+        self.src = mtx.col
+        self.dst = mtx.row
+        self.edge_index = np.stack([self.src, self.dst])
+        self.avg_degree = self.num_edges / self.num_nodes
+        
+        # self.num_nodes = self.graph['num_nodes_src']-0
+        # self.num_edges = self.graph['num_edges']-0
+        # src_li = self.graph['src_li']
+        # dst_li = self.graph['dst_li']
+        # self.edge_index = np.stack([src_li, dst_li])
 
         val = [1] * self.num_edges
         scipy_coo = coo_matrix((val, self.edge_index), shape=(self.num_nodes, self.num_nodes))

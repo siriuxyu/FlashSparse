@@ -6,7 +6,7 @@ from param import *
 import torch
 import GNNAdvisor_kernel
 
-def kernel(inputInfo, epoches, dataset):
+def kernel(inputInfo:inputProperty, epoches, dataset):
     # for i in range(epoches):
     X_prime, spmm_ms_avg = GNNAdvisor_kernel.forward(dataset.x, inputInfo.row_pointers, inputInfo.column_index, inputInfo.degrees, inputInfo.partPtr, inputInfo.part2Node, inputInfo.partSize, inputInfo.dimWorker, inputInfo.warpPerBlock, epoches, 10)
     return round(spmm_ms_avg.item(),4)

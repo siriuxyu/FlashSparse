@@ -6,6 +6,7 @@ import scipy.sparse as sp
 from scipy.sparse import coo_matrix
 
 from scipy.sparse import *
+from scipy.io import mmread
 
 def func(x):
     '''
@@ -24,7 +25,7 @@ class GCN_dataset(torch.nn.Module):
 
         # self.graph = np.load('dgl_dataset/mythroughput/' + data +'.npz')
         # print(self.graph)
-        self.graph = np.load(data_path)
+        # self.graph = np.load(data_path)
         self.num_features = dimN
         
         self.avg_degree = -1
@@ -36,15 +37,34 @@ class GCN_dataset(torch.nn.Module):
         
         
     def init_edges(self, data_path):
-        # loading from a .npz graph file
-        self.num_nodes=  self.graph['num_nodes_src']-0
-        self.num_nodes_dst =  self.graph['num_nodes_dst']-0
-        self.num_edges = self.graph['num_edges']-0
-        src_li = self.graph['src_li']
-        dst_li = self.graph['dst_li']
-        self.edge_index = np.stack([src_li, dst_li])
+        if not data_path.endswith('.mtx'):
+            raise ValueError("graph file must be a .mtx file")
+
+        mtx = mmread(data_path)
+        if not isinstance(mtx, coo_matrix):
+            mtx = coo_matrix(mtx)
+        
+        self.num_nodes_src = mtx.shape[1]
+        self.num_nodes_dst = mtx.shape[0]
+        self.num_nodes = self.num_nodes_src
+        # if self.num_nodes_src%16 !=0 :
+        #     self.num_nodes = self.num_nodes_src + 16 - self.num_nodes_src%16
+        
+        self.num_edges = mtx.nnz
+        self.src = mtx.col
+        self.dst = mtx.row
+        self.edge_index = np.stack([self.src, self.dst])
         self.avg_degree = self.num_edges / self.num_nodes
-        # self.avg_edgeSpan = np.mean(np.abs(np.subtract(src_li, dst_li)))
+        
+        # # loading from a .npz graph file
+        # self.num_nodes=  self.graph['num_nodes_src']-0
+        # self.num_nodes_dst =  self.graph['num_nodes_dst']-0
+        # self.num_edges = self.graph['num_edges']-0
+        # src_li = self.graph['src_li']
+        # dst_li = self.graph['dst_li']
+        # self.edge_index = np.stack([src_li, dst_li])
+        # self.avg_degree = self.num_edges / self.num_nodes
+        # # self.avg_edgeSpan = np.mean(np.abs(np.subtract(src_li, dst_li)))
         
         val = [1] * self.num_edges
         scipy_coo = coo_matrix((val, self.edge_index), shape=(self.num_nodes, self.num_nodes))
