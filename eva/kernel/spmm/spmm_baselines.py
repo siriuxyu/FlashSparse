@@ -2,6 +2,7 @@ import torch
 from scipy.sparse import *
 import sys
 # from advisor import test_advisor
+from dtc import test_dtc
 from tcgnn import test_tcgnn
 from gespmm import test_gespmm
 import subprocess
@@ -10,15 +11,16 @@ import csv
 import pandas as pd
 import time
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "2"
+import os.path as osp
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
             
-'''
-GNNAdvisor
-'''
-def advisor_test(data, dimN, epoches,data_path) : 
-    spmm = test_advisor.test(data, epoches, dimN, data_path)
-    return spmm
+# '''
+# GNNAdvisor
+# '''
+# def advisor_test(data, dimN, epoches,data_path) : 
+#     spmm = test_advisor.test(data, epoches, dimN, data_path)
+#     return spmm
                 
             
 '''
@@ -47,7 +49,13 @@ def safe_advisor_test(data, dimN, epoches, data_path):
     except subprocess.CalledProcessError as e:
         print(f"Subprocess failed: {e.output.decode()}")
         return 100000  # 默认值
-    
+
+'''
+DTC
+'''
+def dtc_test(data, dimN, epoches, data_path):
+    spmm = test_dtc.test(data, epoches, dimN, data_path)
+    return spmm    
     
 if __name__ == "__main__":
 
@@ -61,18 +69,19 @@ if __name__ == "__main__":
     epoches = 10
     current_dir = os.path.dirname(__file__)
     project_dir = os.path.dirname(os.path.dirname(os.path.dirname(current_dir)))
+    baseline_dir = osp.join(project_dir, 'Baseline')
     
     #result path
     file_name = project_dir + '/result/Baseline/spmm/base_spmm_f32_n' + str(dimN) + '.csv'
-    head = ['dataSet', 'num_nodes', 'num_edges', 'advisor', 'tcgnn', 'gespmm']
+    head = ['dataSet', 'num_nodes', 'num_edges', 'advisor', 'tcgnn', 'gespmm', 'dtc']
     with open(file_name, 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(head)
     
     start_time = time.time()
     # Traverse each dataset
-    df = pd.read_csv(project_dir + '/dataset/data_filter.csv')
-    df = pd.read_csv(project_dir + '/result/ref/baseline_h100_spmm_256.csv')
+    df = pd.read_csv(baseline_dir + '/dataset/data_filter.csv')
+    # df = pd.read_csv(project_dir + '/result/ref/baseline_h100_spmm_256.csv')
     
     for index, row in df.iterrows():
         res_temp = []
@@ -81,7 +90,12 @@ if __name__ == "__main__":
         res_temp.append(row.iloc[2])
 
         #Dataset path
-        data_path =  project_dir + '/dataset/' + row.iloc[0] + '.npz'
+        data = row.iloc[0]
+        data_path =  baseline_dir + '/dataset/' + data + '/' + data + '.mtx'
+        
+        from scipy.io import mmread
+        mtx = mmread(data_path)
+        nnz = mtx.nnz
         
         # advisor
         # if row.iloc[0] not in []:
@@ -92,18 +106,30 @@ if __name__ == "__main__":
         #     res_temp.append(spmm_advisor)
         spmm_advisor = safe_advisor_test(row.iloc[0], dimN, epoches, data_path)
         print(str(dimN) + '-' + row.iloc[0] + ' advisor-' + str(spmm_advisor))
-        res_temp.append(spmm_advisor)
+        gflops = 2 * nnz * dimN / (spmm_advisor * 1e6)
+        res_temp.append(gflops)
+        # res_temp.append(spmm_advisor)
         
         # tcgnn
         if row.iloc[2] < 1000000:
             spmm_tcgnn = tcgnn_test(row.iloc[0], dimN, epoches, data_path)
-            res_temp.append(spmm_tcgnn)
+            gflops = 2 * nnz * dimN / (spmm_tcgnn * 1e6)
+            res_temp.append(gflops)
+            # res_temp.append(spmm_tcgnn)
         else:
             res_temp.append(10000000)
             
         # gespmm
         spmm_gespmm = gespmm_test(row.iloc[0], dimN, epoches, data_path)
-        res_temp.append(spmm_gespmm)
+        gflops = 2 * nnz * dimN / (spmm_gespmm * 1e6)
+        res_temp.append(gflops)
+        # res_temp.append(spmm_gespmm)
+        
+        # dtc
+        spmm_dtc = dtc_test(row.iloc[0], dimN, epoches, data_path)
+        gflops = 2 * nnz * dimN / (spmm_dtc * 1e6)
+        res_temp.append(gflops)
+        # res_temp.append(spmm_dtc)
             
         with open(file_name, 'a', newline='') as csvfile:
             csv_writer = csv.writer(csvfile)
