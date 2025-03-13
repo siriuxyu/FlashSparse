@@ -8,13 +8,14 @@ import time
 
 current_dir = os.path.dirname(__file__)
 project_dir = os.path.dirname(os.path.dirname(os.path.dirname(current_dir)))
+baseline_dir = project_dir + '/Baseline/'
 
-df = pd.read_csv(project_dir + '/dataset/data_filter.csv')
-df = pd.read_csv(project_dir + '/result/ref/baseline_h100_spmm_256.csv')
+df = pd.read_csv(baseline_dir + '/dataset/data_filter.csv')
+# df = pd.read_csv(project_dir + '/result/ref/baseline_h100_spmm_128.csv')
 
 #用于存储结果
 file_name = project_dir + '/result/Baseline/spmm/rode_spmm_f32_n256.csv'
-head = ['dataSet','rows_','columns_','nonzeros_','sputnik','Sputnik_gflops','cusparse','cuSPARSE_gflops','rode','ours_gflops']
+head = ['dataSet','rows_','columns_','nonzeros_','cuSPARSE','cuSPARSE_gflops','rode','rode_gflops']
 
 with open(file_name, 'w', newline='') as csvfile:
     csv_writer = csv.writer(csvfile)
@@ -25,15 +26,15 @@ start_time = time.time()
 for index, row in df.iterrows():
     count+=1
     
-    data = [row['dataSet']]
+    data = [row['Dataset']]
     if data in ['adaptive', 'delaunay_n22', 'rgg_n_2_22_s0'] :
         continue
     with open(file_name, 'a', newline='') as csvfile:
         csvfile.write(','.join(map(str, data)))
 
-    shell_command =project_dir + "/Baseline/RoDe/build/eval/eval_spmm_f32_n256 " + project_dir + "/Baseline/RoDe/dataset/" + row['dataSet'] + '/' + row['dataSet'] + ".mtx >> " + file_name
+    shell_command =project_dir + "/Baseline/RoDe/build/eval/eval_spmm_f32_n256 " + baseline_dir + "dataset/" + row['Dataset'] + '/' + row['Dataset'] + ".mtx >> " + file_name
     
-    print(row['dataSet'])
+    print(row['Dataset'])
     subprocess.run(shell_command, shell=True)
 
     
