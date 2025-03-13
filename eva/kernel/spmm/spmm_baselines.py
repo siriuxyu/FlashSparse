@@ -21,6 +21,13 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 # def advisor_test(data, dimN, epoches,data_path) : 
 #     spmm = test_advisor.test(data, epoches, dimN, data_path)
 #     return spmm
+
+'''
+RoDe
+'''
+def rode_test(data, dimN, data_path, baseline_dir, result_path):
+    shell_command = baseline_dir + f"/RoDe/build/eval/eval_spmm_f32_n{dimN} " + baseline_dir + "/dataset/" + data + '/' + data + ".mtx >> " + result_path
+    subprocess.run(shell_command, shell=True)
                 
             
 '''
@@ -39,6 +46,9 @@ def gespmm_test(data, dimN, epoches,data_path) :
     return spmm
 
 
+'''
+Advisor
+'''
 def safe_advisor_test(data, dimN, epoches, data_path):
     try:
         result = subprocess.check_output(
@@ -73,12 +83,21 @@ if __name__ == "__main__":
     
     #result path
     file_name = project_dir + '/result/Baseline/spmm/base_spmm_f32_n' + str(dimN) + '.csv'
-    head = ['dataSet', 'num_nodes', 'num_edges', 'advisor', 'tcgnn', 'gespmm', 'dtc']
+    head = ['dataSet','num_nodes','num_edges',
+            'advisor','advisor_gflops',
+            'tcgnn','tcgnn_gflops',
+            'gespmm','gespmm_gflops',
+            'dtc','dtc_gflops',
+            'src','dst','nnz',
+            'cuSPARSE','cuSPARSE_gflops',
+            'rode','rode_gflops']
+    
     with open(file_name, 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(head)
     
     start_time = time.time()
+    
     # Traverse each dataset
     df = pd.read_csv(baseline_dir + '/dataset/data_filter.csv')
     # df = pd.read_csv(project_dir + '/result/ref/baseline_h100_spmm_256.csv')
@@ -98,43 +117,54 @@ if __name__ == "__main__":
         nnz = mtx.nnz
         
         # advisor
-        # if row.iloc[0] not in []:
-        #     spmm_advisor = advisor_test(row.iloc[0], dimN, epoches, data_path)
+        # if data not in []:
+        #     spmm_advisor = advisor_test(data, dimN, epoches, data_path)
         #     res_temp.append(spmm_advisor)
         # else:
-        #     spmm_advisor = advisor_test(row.iloc[0], dimN, epoches, data_path)
+        #     spmm_advisor = advisor_test(data, dimN, epoches, data_path)
         #     res_temp.append(spmm_advisor)
-        spmm_advisor = safe_advisor_test(row.iloc[0], dimN, epoches, data_path)
-        print(str(dimN) + '-' + row.iloc[0] + ' advisor-' + str(spmm_advisor))
+        
+        spmm_advisor = safe_advisor_test(data, dimN, epoches, data_path)
+        print(str(dimN) + '-' + data + ' advisor-' + str(spmm_advisor))
         gflops = 2 * nnz * dimN / (spmm_advisor * 1e6)
+        res_temp.append(spmm_advisor)
         res_temp.append(gflops)
-        # res_temp.append(spmm_advisor)
         
         # tcgnn
         if row.iloc[2] < 1000000:
-            spmm_tcgnn = tcgnn_test(row.iloc[0], dimN, epoches, data_path)
+            spmm_tcgnn = tcgnn_test(data, dimN, epoches, data_path)
             gflops = 2 * nnz * dimN / (spmm_tcgnn * 1e6)
+            res_temp.append(spmm_tcgnn)
             res_temp.append(gflops)
-            # res_temp.append(spmm_tcgnn)
         else:
+            res_temp.append(10000000)
             res_temp.append(10000000)
             
         # gespmm
-        spmm_gespmm = gespmm_test(row.iloc[0], dimN, epoches, data_path)
+        spmm_gespmm = gespmm_test(data, dimN, epoches, data_path)
         gflops = 2 * nnz * dimN / (spmm_gespmm * 1e6)
+        res_temp.append(spmm_gespmm)
         res_temp.append(gflops)
-        # res_temp.append(spmm_gespmm)
         
         # dtc
-        spmm_dtc = dtc_test(row.iloc[0], dimN, epoches, data_path)
+        spmm_dtc = dtc_test(data, dimN, epoches, data_path)
         gflops = 2 * nnz * dimN / (spmm_dtc * 1e6)
+        res_temp.append(spmm_dtc)
         res_temp.append(gflops)
-        # res_temp.append(spmm_dtc)
+        
             
+
+        write_row_before_rode = ','.join(map(str, res_temp))
+
         with open(file_name, 'a', newline='') as csvfile:
-            csv_writer = csv.writer(csvfile)
-            csv_writer.writerow(res_temp)
-        print(row.iloc[0] + ' is success')
+            csvfile.write(write_row_before_rode)
+            # csv_writer = csv.writer(csvfile)
+            # csv_writer.writerow(res_temp)
+        
+        # rode
+        rode_test(data, dimN, data_path, baseline_dir, file_name)
+        
+        print(data + ' is success')
         print()
     print('All is success')
     
