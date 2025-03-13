@@ -26,8 +26,8 @@ list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake/modules)
 include(cmake/Dependencies.cmake)
 
 set(UTILS_LIBS ${PROJECT_SOURCE_DIR}/utils)
-set(Sputnik_SPMM_LIBS ${PROJECT_SOURCE_DIR}/Sputnik_SpMM)
-set(Sputnik_SDDMM_LIBS ${PROJECT_SOURCE_DIR}/Sputnik_SDDMM)
+# set(Sputnik_SPMM_LIBS ${PROJECT_SOURCE_DIR}/Sputnik_SpMM)
+# set(Sputnik_SDDMM_LIBS ${PROJECT_SOURCE_DIR}/Sputnik_SDDMM)
 set(CUSPARSE_SPMM_LIBS ${PROJECT_SOURCE_DIR}/cuSparse_SpMM)
 
 set(RoDe_SPMM_LIBS ${PROJECT_SOURCE_DIR}/RoDe_SpMM)
@@ -42,8 +42,8 @@ include_directories("${PROJECT_SOURCE_DIR}")
 MESSAGE( STATUS "this var key = ${CMAKE_CUDA_FLAGS}.")
 
 add_subdirectory(utils)
-add_subdirectory(Sputnik_SpMM)
-add_subdirectory(Sputnik_SDDMM)
+# add_subdirectory(Sputnik_SpMM)
+# add_subdirectory(Sputnik_SDDMM)
 
 add_subdirectory(cuSparse_SpMM)
 
@@ -51,6 +51,6 @@ add_subdirectory(cuSparse_SpMM)
 add_subdirectory(RoDe_SDDMM)
 add_subdirectory(RoDe_SpMM)
 
-add_subdirectory(mat_prof)
+# add_subdirectory(mat_prof)
 add_subdirectory(eval)
 add_subdirectory(Preprocess_opt)

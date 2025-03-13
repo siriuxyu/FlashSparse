@@ -75,10 +75,10 @@ struct FailureSignalData {
   struct sigaction previous_action;
   // StructSigaction is used to silence -Wmissing-field-initializers.
   using StructSigaction = struct sigaction;
-  #define FSD_PREVIOUS_INIT FailureSignalData::StructSigaction()
+#define FSD_PREVIOUS_INIT FailureSignalData::StructSigaction()
 #else
   void (*previous_handler)(int);
-  #define FSD_PREVIOUS_INIT SIG_DFL
+#define FSD_PREVIOUS_INIT SIG_DFL
 #endif
 };
 
@@ -130,12 +130,13 @@ const char* FailureSignalToString(int signo) {
 #ifdef ABSL_HAVE_SIGALTSTACK
 
 static bool SetupAlternateStackOnce() {
-#if defined(__wasm__) || defined (__asjms__)
+#if defined(__wasm__) || defined(__asjms__)
   const size_t page_mask = getpagesize() - 1;
 #else
   const size_t page_mask = sysconf(_SC_PAGESIZE) - 1;
 #endif
-  size_t stack_size = (std::max(SIGSTKSZ, 65536) + page_mask) & ~page_mask;
+  size_t stack_size =
+      (std::max(SIGSTKSZ, (long int)65536) + page_mask) & ~page_mask;
 #if defined(ABSL_HAVE_ADDRESS_SANITIZER) || \
     defined(ABSL_HAVE_MEMORY_SANITIZER) || defined(ABSL_HAVE_THREAD_SANITIZER)
   // Account for sanitizer instrumentation requiring additional stack space.
@@ -287,7 +288,8 @@ static void PortableSleepForSeconds(int seconds) {
   struct timespec sleep_time;
   sleep_time.tv_sec = seconds;
   sleep_time.tv_nsec = 0;
-  while (nanosleep(&sleep_time, &sleep_time) != 0 && errno == EINTR) {}
+  while (nanosleep(&sleep_time, &sleep_time) != 0 && errno == EINTR) {
+  }
 #endif
 }
 
@@ -297,9 +299,7 @@ static void PortableSleepForSeconds(int seconds) {
 // set amount of time. If AbslFailureSignalHandler() hangs for more than
 // the alarm timeout, ImmediateAbortSignalHandler() will abort the
 // program.
-static void ImmediateAbortSignalHandler(int) {
-  RaiseToDefaultHandler(SIGABRT);
-}
+static void ImmediateAbortSignalHandler(int) { RaiseToDefaultHandler(SIGABRT); }
 #endif
 
 // absl::base_internal::GetTID() returns pid_t on most platforms, but
